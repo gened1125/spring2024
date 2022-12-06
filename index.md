@@ -14,8 +14,8 @@ seo:
 {: .fs-6 .fw-300 }
 
 **Instructor: Professor Venkatesh Murthy**  ([vnmurthy@fas.harvard.edu](mailto:vnmurthy@fas.harvard.edu)) \
-**Head TF: Lucy Lai**  ([lucylai@g.harvard.edu](mailto:lucylai@g.harvard.edu)) \
-**Lecture: M/W 3-4:15PM | Science Center Hall E**
+**Head TF: Kumaresh Krishnan**  ([kumaresh_krishnan@g.harvard.edu](mailto:kumaresh_krishnan@g.harvard.edu)) \
+**Lecture: M/W 3-4:15PM | Location: TBD**
 
 Quick Links
 * [PDF version](https://canvas.harvard.edu/files/14228300/download?download_frd=1) of the course schedule and syllabus.
