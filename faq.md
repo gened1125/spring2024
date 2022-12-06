@@ -9,7 +9,7 @@ description: >-
 # FAQ
 {:.no_toc}
 
-This page is for frequently asked questions (most recent ones at the top). Please check this page as well as the [syllabus](https://gened1125.github.io/spring2022/syllabus/) to see if your question has already been answered **before** reaching out to [Prof. Murthy](mailto:vnmurthy@fas.harvard.edu) and [Lucy](mailto:lucylai@g.harvard.edu). If you don't see your question here, please email **both** of us!
+This page is for frequently asked questions (most recent ones at the top). Please check this page as well as the [syllabus](https://gened1125.github.io/spring2022/syllabus/) to see if your question has already been answered **before** reaching out to [Prof. Murthy](mailto:vnmurthy@fas.harvard.edu) and [Kumaresh](mailto:kumaresh_krishnan@g.harvard.edu). If you don't see your question here, please email **both** of us!
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -37,7 +37,7 @@ The late policy says that you get 1 "free pass" for a late assignment (up to 2 d
 
 ## General / Course Logistics
 ### What happens if I test positive for COVID during the semester and can't attend class / section?
-Unfortunately, we must all be prepared for this to happen this term. If you test positive for COVID and are instructed to isolate, please email [Prof. Murthy](mailto:vnmurthy@fas.harvard.edu), [Lucy](mailto:lucylai@g.harvard.edu), and your Resident Dean to let us know that you will be missing class and to request extensions on assignments---You can forward us the email you recieve from HUHS. If you will be missing section that week, please also email your Section TF. 
+Unfortunately, we must all be prepared for this to happen this term. If you test positive for COVID and are instructed to isolate, please email [Prof. Murthy](mailto:vnmurthy@fas.harvard.edu), [Kumaresh](mailto:kumaresh_krishnan@g.harvard.edu), and your Resident Dean to let us know that you will be missing class and to request extensions on assignments---You can forward us the email you recieve from HUHS. If you will be missing section that week, please also email your Section TF. 
 
 Since lectures will be recorded, you can access and watch class content at a later date. We will also offer extensions on psets, making sure that you have enough time to recover and complete assignments. If you will also be missing section, you can either ask your TF to record section or provide you with the material afterwards. If you happen to be asymptomatic or feeling well enough to participate in section, you can ask your TF to Zoom into section, if possible.
 
@@ -47,10 +47,10 @@ We hope that you all can help each other during these times as well: It's helpfu
 Yes! This course is supposed to be an **introduction** to topics in artificial and natural intelligence. We've had students from all kinds of concentations take this course, including Social Studies, Government, and East Asian Studies. We really value all kinds of perspectives in our discussions, especially when we talk about controversial topics, for example, the ethics of AI!
 
 ### Can I change sections? Can I attend a section that I'm not assigned to?
-We will use my.Harvard's sectioning tool to assign sections. You will be able to rank sections in the order of your preference, and we will try our best to honor that preference. If in the case you are assigned to a section that conflicts with another course, please email the Head TF, [Lucy](mailto:lucylai@g.harvard.edu). You must attend the section that you were assigned to get credit for section attendance. 
+We will use my.Harvard's sectioning tool to assign sections. You will be able to rank sections in the order of your preference, and we will try our best to honor that preference. If in the case you are assigned to a section that conflicts with another course, please email the Head TF, [Kumaresh](mailto:kumaresh_krishnan@g.harvard.edu). You must attend the section that you were assigned to get credit for section attendance. 
 
 ### Can I audit the course or take it pass / fail?
-Pass / failing and auditing is by instructor permission only and under limited circumstances. Please email both [Prof. Murthy](mailto:vnmurthy@fas.harvard.edu) and [Lucy](mailto:lucylai@g.harvard.edu) with your specific situation. Remember, you are allowed to take 1 out of 4 of your Gen Ed courses as pass / fail during your time at Harvard.
+Pass / failing and auditing is by instructor permission only and under limited circumstances. Please email both [Prof. Murthy](mailto:vnmurthy@fas.harvard.edu) and [Kumaresh](mailto:kumaresh_krishnan@g.harvard.edu) with your specific situation. Remember, you are allowed to take 1 out of 4 of your Gen Ed courses as pass / fail during your time at Harvard.
 
 ### Where can I get extra help outside of section?
-Prof. Murthy will host weekly office hours Tuesday, 2-3:30PM on [Zoom](https://harvard.zoom.us/my/venki.murthy).
+Prof. Murthy will host weekly office hours (Time TBD) on [Zoom](https://harvard.zoom.us/my/venki.murthy).
