@@ -21,16 +21,16 @@ description: >-
 What is intelligence? An inquiry into the nature of intelligence can take different forms – philosophical, biological, mathematical or technological. In this course, we will use machine intelligence (everything from voice recognizing smartphones to game-playing computers) as a handle to think about natural intelligence (brains and behavior of animals). Although we will start with big, general questions, we will quickly move to concrete queries about brains and computers. This approach, rather than just starting with brains of animals, may be useful in framing more universal questions independent of the specific architecture of brains of animals. As machines increasingly perform tasks that were once thought to be solely in the domain of humans, there is an urgent need for discussions of the moral and societal implications of artificial intelligence. This course targets students interested in brains and computers in equal measure, and who are comfortable discussing ethical concerns.
 
 ## Canvas & Course Website  💻
-The [course website](https://gened1125.github.io/spring2022) will be used for the **course schedule and links to all readings and problem set submissions**, while the [course Canvas](https://canvas.harvard.edu/courses/97916/) will be where you **submit your problem sets, midterm, and final paper**, and where we **send announcements** via the course emailer (be sure you have notifications turned on in Canvas!). 
+The [course website](https://gened1125.github.io/spring2023) will be used for the **course schedule and links to all readings and problem set submissions**, while the [course Canvas](https://canvas.harvard.edu/courses/115291/) will be where you **submit your problem sets, midterm, and final paper**, and where we **send announcements** via the course emailer (be sure you have notifications turned on in Canvas!). 
 
 ## Lecture  👨‍🏫
-Lectures are held every Monday and Wednesday from 3-4:15PM in Science Center Hall E. Lecture attendance is mandatory and part of your final grade. We will use an interactive poll system ([PollEv](https://pollev.com/gened1125)) to record class participation. Lectures will be recorded and released after each class for review. If you need to miss lecture for whatever reason, please [email the Head TF (Lucy)](https://mail.google.com/mail/?view=cm&source=mailto&to=lucylai@g.harvard.edu).
+Lectures are held every Monday and Wednesday from 3-4:15PM in Science Center Hall E. Lecture attendance is mandatory and part of your final grade. We will use an interactive poll system ([PollEv](https://pollev.com/gened1125)) to record class participation. Lectures will be recorded and released after each class for review. If you need to miss lecture for whatever reason, please [email the Head TF (Kumaresh)](https://mail.google.com/mail/?view=cm&source=mailto&to=kumaresh_krishnan@g.harvard.edu).
 
 ## Section  👩‍🏫
 Sections will be held by the course TFs on different days of the week. Section will be a mix of content review, group discussion, and going over problem sets. At the beginning of the semester, every student will be assigned a section (by rank-order preference) and section attendance is mandatory and part of your final grade. You must attend your own section to recieve credit. If you need to miss section for whatever reason, please email your section TF so that you can get caught up on the material for that week.
 
 ## Office Hours  ⏰
-Part of section every week will be dedicated to answering questions and clarifying course content. In addition to that, Prof. Murthy will hold office hours Tuesdays, 2-3:30PM on [Zoom](https://harvard.zoom.us/my/venki.murthy).
+Part of section every week will be dedicated to answering questions and clarifying course content. In addition to that, Prof. Murthy will hold office hours (time TBD).
 
 ## Class Notes 🗒️
 Class notes and material will be released and linked on the course website.
@@ -52,7 +52,7 @@ There are no formal prerequisites to this course, and students do not need to be
 | 20% | Final paper / project               |
 
 *Lectures will be interactive, with discussions throughout. Lectures will also be live-recorded and released after each class.
-
+<!---
 ## Summary of Important Dates❗️
 All problem sets due on Friday at 11:59pm
 
@@ -72,7 +72,7 @@ All problem sets due on Friday at 11:59pm
 | **04/22**      | PSet 4 due @ 11:59pm, paper proposal due (in Section)                                             |
 | 04/27          | Paper proposal due (in Section)                                                                   |
 | **05/09**      | Final paper due                                                                                   |
-
+--->
  **Late policy:** You are allowed one (1) late pass for problem sets (up to two days). After that, 1 point will be deducted off your problem set grade for each subsequent day that it is late.
 
 ## Collaboration and Academic Integrity 👨🏻‍💻
