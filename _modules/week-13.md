@@ -3,7 +3,7 @@ title: Week 13 - Towards General AI & What is Missing?
 ---
 
 Apr 24
-: **LEC 24**{: .label .label-grey } **Guest Lecturer** 🎥  
+: **LEC 23**{: .label .label-grey } **Guest Lecturer** 🎥  
 : Readings 📖
 
 <!--
