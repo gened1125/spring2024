@@ -3,7 +3,7 @@ title: Week 1 - Introduction
 ---
 
 Jan 23
-: **LEC 1**{: .label .label-grey} **What is Intelligence?<!---(https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6709f778-669e-44a8-ac5c-ae270165421c)--->** 🎥  
+: **LEC 1**{: .label .label-grey} **What is Intelligence?**<!---(https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6709f778-669e-44a8-ac5c-ae270165421c)---> 🎥  
     : [Slides]<!---(https://canvas.harvard.edu/files/14215632/download?download_frd=1)--->
 : Readings 📖
     : [Lecture Takeaways]<!---(https://canvas.harvard.edu/files/14218488/download?download_frd=1)--->
