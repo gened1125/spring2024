@@ -52,8 +52,10 @@ There are no formal prerequisites to this course, and students do not need to be
 | 20% | Final paper / project               |
 
 *Lectures will be interactive, with discussions throughout. Lectures will also be live-recorded and released after each class.
+
+## Summary of Important Dates❗
+Updated at start of semester
 <!---
-## Summary of Important Dates❗️
 All problem sets due on Friday at 11:59pm
 
 | Date           | Event                                                                                             |
