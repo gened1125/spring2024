@@ -8,6 +8,6 @@ Mar 6
 : Readings 📖
 
 Mar 8
-: In class mid term exam
+: **In class mid term exam**
 
 Section
