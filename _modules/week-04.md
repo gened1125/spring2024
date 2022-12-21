@@ -3,7 +3,7 @@ title: Week 4 - The Building Blocks of Biological and Artificial Intelligence (C
 ---
 
 Feb 13
-: **LEC 7**{: .label .label-grey } **How Networks Learn
+: **LEC 7**{: .label .label-grey } **How Networks Learn** 🎥
 : Readings 📖
 
 <!--
