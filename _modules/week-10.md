@@ -16,7 +16,4 @@ Apr 5
 : **LEC 17**{: .label .label-grey } **Learning How To Drive A Car** 🎥
   : Slides
 
-: **PSET 3 handed out**{: .label .label-green } Covers lectures 14-17
-  : PSET 3
-
 Section
