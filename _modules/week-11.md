@@ -3,7 +3,7 @@ title: Week 10 - What Does The Black Box Do?
 ---
 
 Apr 10
-: **LEC 18**{: .label .label-grey } **Mind-Reading** 🎥
+: **LEC 19**{: .label .label-grey } **Mind-Reading** 🎥
   : Slides
 : Readings 📖
 
@@ -13,7 +13,7 @@ Apr 10
 -->
 
 Apr 12
-: **LEC 19**{: .label .label-grey } **[Interpreting Machines** 🎥 
+: **LEC 20**{: .label .label-grey } **[Interpreting Machines** 🎥 
   : Slides
 : Readings 📖
 
