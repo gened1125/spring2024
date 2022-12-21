@@ -15,5 +15,8 @@ Apr 3
 Apr 5
 : **LEC 17**{: .label .label-grey } **Learning How To Drive A Car** 🎥
   : Slides
+  
+Apr 7
+: **PSET 3 DUE @ 11:59PM**{: .label .label-red }
 
 Section
