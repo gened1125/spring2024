@@ -11,7 +11,7 @@ Jan 23
 : *Could Machines Think?*
 : *Intelligence*
 : *Understanding Complex Information-Processing Systems*
---->
+-->
 Jan 25
 : **LEC 2**{: .label .label-grey} **With Great Power Comes Great Responsibility** 🎥 
     : Slides
@@ -19,4 +19,4 @@ Jan 25
 <!---
 : *Agency and the Algorithm*
 : *Assessing Risk, Automating Racism*
---->
+-->
