@@ -6,12 +6,15 @@ Jan 30
 : **LEC 3**{: .label .label-grey } **The Building Blocks of the Brain** 🎥
     : Slides
 : Readings 📖
+
 <!--
 : Neuroscience Primer](https://canvas.harvard.edu/files/14251618/download?download_frd=1)
 : Lecture Notes](https://canvas.harvard.edu/files/14251627/download?download_frd=1) written by a former GenEd 1125 student!
 -->
+
 Feb 1
 :  **LEC 4**{: .label .label-grey } **Guest Lecturer - Jeff Lichtman (Harvard)** 🎥
+
 <!--
 : Papers mentioned in Prof. Lichtman's talk 📄
 : * [A Technicolor Approach to the Connectome](https://canvas.harvard.edu/files/14287742/download?download_frd=1)
@@ -22,6 +25,7 @@ Feb 1
 
 Section
 : Section begins this week!
+
 <!--
 : Introduction, purpose of section
 : Discussion: What is intelligence?, Marr's levels, AI ethics 
