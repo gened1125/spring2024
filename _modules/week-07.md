@@ -1,16 +1,11 @@
 ---
-title: Week 7 - Language in Brains and Machines
+title: Week 7 - Memory and Learning
 ---
 
 Mar 6
-: **LEC 12**{: .label .label-grey } **Natural Language and Communication** 🎥
+: **LEC 12**{: .label .label-grey } **Hippocampus and Learning** 🎥
     : Slides
 : Readings 📖
-
-<!--
-: * [Bird Communication]
-: * [Human Language]
--->
 
 Mar 8
 : In class mid term exam
