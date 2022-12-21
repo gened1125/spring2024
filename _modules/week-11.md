@@ -13,7 +13,7 @@ Apr 10
 -->
 
 Apr 12
-: **LEC 20**{: .label .label-grey } **[Interpreting Machines** 🎥 
+: **LEC 20**{: .label .label-grey } **Interpreting Machines** 🎥 
   : Slides
 : Readings 📖
 
