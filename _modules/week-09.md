@@ -12,7 +12,7 @@ Mar 29
     : Slides
 : Readings 📖
 : **PSET 3 handed out**{: .label .label-green } Covers lectures 13-16
-  : PSET 3
+    : PSET 3
 
 <!--
 : * [Guide to NLP]
