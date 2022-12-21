@@ -23,10 +23,15 @@ schedule:
         start: 3:00 PM
         end: 4:15 PM
         location: TBD
+  - name: Tuesday
   - name: Wednesday
     events:
       - name: Lecture
         start: 3:00 PM
         end: 4:15 PM
         location: TBD
+  - name: Thursday
+  - name: Friday
+  - name: Saturday
+  - name: Sunday
 ---
