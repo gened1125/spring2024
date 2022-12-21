@@ -24,7 +24,7 @@ Feb 1
 -->
 
 Section
-: Section begins <!--this--> week!
+: Section begins this week!
 
 <!--
 : Introduction, purpose of section
