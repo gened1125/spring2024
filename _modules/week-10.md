@@ -3,7 +3,7 @@ title: Week 9 - Applications
 ---
 
 Apr 3
-: **LEC 16**{: .label .label-grey } **Learning To Play Complex Games** 🎥
+: **LEC 17**{: .label .label-grey } **Learning To Play Complex Games** 🎥
   : Slides
 : Readings 📖
 
@@ -13,7 +13,7 @@ Apr 3
 -->
 
 Apr 5
-: **LEC 17**{: .label .label-grey } **Learning How To Drive A Car** 🎥
+: **LEC 18**{: .label .label-grey } **Learning How To Drive A Car** 🎥
   : Slides
   
 Apr 7
