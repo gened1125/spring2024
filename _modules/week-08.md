@@ -8,7 +8,7 @@ Mar 20
 : Readings 📖
 
 Mar 22
-: **LEC 16**{: .label .label-grey } **Guest Lecture - Nao Uchida (Reinforcement Learning)**
+: **LEC 14**{: .label .label-grey } **Guest Lecture - Nao Uchida (Reinforcement Learning)**
 : Readings 📖
 
 Section:
