@@ -14,9 +14,9 @@ Apr 26
 : **Course Summary & Feedback** 🎥
 : **FEEDBACK**{: .label .label-green } End-of-year course feedback
 
-Section
-
 May 8
 : **FINAL PAPER DUE @ 11:59pm**{: .label .label-red }
+
+Section
 
 
