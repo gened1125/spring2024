@@ -1,9 +1,18 @@
 ---
-title: Week 12 - Reality?
+title: Week 12 - Biases and Reality
 ---
 
 Apr 17
-: **Lec 21**
+: **LEC 21**{: .label .label-grey } **Human & Algorithmic Biases** 🎥 
+  : Slides
+: Readings 📖
+
+<!--
+: * [Illusions](https://www.vox.com/science-and-health/20978285/optical-illusion-science-humility-reality-polarization)
+: * [Fairness in ML](https://canvas.harvard.edu/files/14742396/download?download_frd=1)
+: **PSET 4 handed out**{: .label .label-green } Covers lectures 18-21
+  : [PSET 4](https://canvas.harvard.edu/files/14746086/download?download_frd=1) / [tex](https://canvas.harvard.edu/files/14746090/download?download_frd=1)
+-->
 
 Apr 19
 : **LEC 22**{: .label .label-grey } **Dreams in Brains and Machines** 🎥 
@@ -18,9 +27,6 @@ Apr 19
 
 Apr 21
 : **PSET 4 DUE @ 11:59PM**{: .label .label-red }
-    : [Submit PSET 4](https://canvas.harvard.edu/courses/97916/assignments/532857)
 
 Section
-: PSET 4 help
-: Final paper topic idea due to section leader this week
-: Present 1 slide of your paper topic / rough outline
+
