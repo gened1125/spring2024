@@ -13,7 +13,7 @@ Feb 13
 
 Feb 15
 :  **LEC 8**{: .label .label-grey } **Guest Lecturer** 🎥
-:  **PSET 2 handed out**{: .label .label-green} Covers lectures 5-8
 : Readings 📖
+:  **PSET 2 handed out**{: .label .label-green} Covers lectures 5-8
 
 Section
