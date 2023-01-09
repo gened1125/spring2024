@@ -3,7 +3,7 @@ title: Week 3 - The Building Blocks of Biological and Artificial Intelligence (C
 ---
 
 Feb 6
-: **LEC 5**{: .label .label-grey } **The Architecture of the Brain** 🎥
+: **LEC 5**{: .label .label-grey } **The Architecture of the Brain - I** 🎥
      : Slides
 : Readings 📖
 
@@ -12,7 +12,7 @@ Feb 6
 -->
 
 Feb 8
-:  **LEC 6**{: .label .label-grey } **The Building Blocks of Neural Network** 🎥
+:  **LEC 6**{: .label .label-grey } **The Architecture of the Brain - II** 🎥
      : Slides
 : Readings 📖
 
