@@ -1,9 +1,9 @@
 ---
-title: Week 7 - Memory and Learning
+title: Week 7 - Representation To Action
 ---
 
 Mar 6
-: **LEC 12**{: .label .label-grey } **Hippocampus and Learning** 🎥
+: **LEC 12**{: .label .label-grey } **Moving in the world** 🎥
     : Slides
 : Readings 📖
 
