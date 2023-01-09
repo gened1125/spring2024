@@ -17,12 +17,13 @@ timeline:
   - '5:00 PM'
   - '5:30 PM'
 schedule:
+  - name: Time
   - name: Monday
     events:
       - name: Lecture
         start: 3:00 PM
         end: 4:15 PM
-        location: TBD
+        location: Science Center Hall A
   - name: Tuesday
   - name: Wednesday
     events:
