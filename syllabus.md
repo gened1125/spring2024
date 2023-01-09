@@ -55,7 +55,8 @@ There are no formal prerequisites to this course, and students do not need to be
 
 ## Summary of Important Dates❗
 Updated at start of semester
-<!---
+
+<!--
 All problem sets due on Friday at 11:59pm
 
 | Date           | Event                                                                                             |
@@ -74,7 +75,8 @@ All problem sets due on Friday at 11:59pm
 | **04/22**      | PSet 4 due @ 11:59pm, paper proposal due (in Section)                                             |
 | 04/27          | Paper proposal due (in Section)                                                                   |
 | **05/09**      | Final paper due                                                                                   |
---->
+-->
+
  **Late policy:** You are allowed one (1) late pass for problem sets (up to two days). After that, 1 point will be deducted off your problem set grade for each subsequent day that it is late.
 
 ## Collaboration and Academic Integrity 👨🏻‍💻
