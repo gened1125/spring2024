@@ -3,7 +3,7 @@ title: Week 8 - Learning In The Brain
 ---
 
 Mar 20
-: **LEC 13**{: .label .label-grey } **TBD** 🎥
+: **LEC 13**{: .label .label-grey } **Types of Learning** 🎥
     : Slides
 : Readings 📖
 
