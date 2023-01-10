@@ -2,7 +2,7 @@
 name: Adam Lowet
 role: Teaching Fellow
 email: alowet@g.harvard.edu
-website: https://www.mcb.harvard.edu/directory/kumaresh-krishnan/
+website: https://projects.iq.harvard.edu/uchidalab/people/adam-lowet
 photo: adam.jpg
 ---
 
