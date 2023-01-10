@@ -18,7 +18,7 @@ seo:
 **Lecture: M/W 3-4:15PM | Location: Science Center Hall A**
 
 Quick Links
-* [PDF version](https://canvas.harvard.edu/files/14228300/download?download_frd=1) of the course schedule and syllabus.
+* [PDF version](https://canvas.harvard.edu/files/16662546/download?download_frd=1) of the course schedule and syllabus.
 * [Course Preview Zoom Recording](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea20130f-9f05-40ee-835b-ae1d0145500a), where Prof. Murthy gives an overview of the course (Recorded for Spring 2022).
 
 {% for module in site.modules %}
