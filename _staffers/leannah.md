@@ -2,7 +2,7 @@
 name: Leannah Newman
 role: Teaching Fellow
 email: leannah_newman@hms.harvard.edu
-website: https://www.mcb.harvard.edu/directory/kumaresh-krishnan/
+website: https://pinphd.hms.harvard.edu/people/leannah-newman
 photo: leannah.jpg
 ---
 
