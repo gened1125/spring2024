@@ -22,6 +22,7 @@ description: A listing of all the course staff members.
 {% for staffer in headtf %}
 {{ staffer }}
 {% endfor %}
+{% endif %}
 
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Fellow' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
