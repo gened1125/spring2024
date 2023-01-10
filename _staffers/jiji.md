@@ -2,7 +2,7 @@
 name: Ji-Yoon Kim
 role: Teaching Fellow
 email: jiyoonkim@fas.harvard.edu
-website: https://www.mcb.harvard.edu/directory/kumaresh-krishnan/
+website: https://www.mcb.harvard.edu/directory/ji-yoon-kim-2/
 photo: jiji.jpg
 ---
 
