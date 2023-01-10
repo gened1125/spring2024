@@ -14,10 +14,14 @@ description: A listing of all the course staff members.
 {{ staffer }}
 {% endfor %}
 
-{% assign teaching_assistants = site.staffers | where: 'role', 'Head Teaching Fellow' %}
-{% assign num_teaching_assistants = teaching_assistants | size %}
-{% if num_teaching_assistants != 0 %}
-## Teaching Fellow
+{% assign headtf = site.staffers | where: 'role', 'Head Teaching Fellow' %}
+{% assign num_headtf = headtf | size %}
+{% if num_headtf != 0 %}
+## Head Teaching Fellow
+
+{% for staffer in headtf %}
+{{ staffer }}
+{% endfor %}
 
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Fellow' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
