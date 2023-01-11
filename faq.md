@@ -20,7 +20,7 @@ This page is for frequently asked questions (most recent ones at the top). Pleas
 ---
 ## Assignments 
 ### How should I format my problem sets & how long should my answers be for open-ended questions?
-You may either type or write up your problem sets, just make sure your work is legible. You do not need to include the question in your document, although it does help us slightly when grading. For convenience, three documents are provided: a PDF with just the pset questions, a PDF with the questions and blank space for your answers, and the raw .tex files for those who would like to type up their solutions in LaTeX.
+You may either type or write up your problem sets, just make sure your work is legible. You do not need to include the question in your document, although it does help us slightly when grading. You are free to write up your solutions in popular document prepation softwares like LaTeX as well. Please be sure to include the question number (and question if possible) while doing so.
 
 Many of the questions may be open ended, but think of the length of your response as proportional to the amount of points that the question is worth. You do not need to go on for paragraphs; a succinct couple of sentences should do. Bullet points are also acceptable.
 
