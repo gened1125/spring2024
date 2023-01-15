@@ -24,6 +24,9 @@ You may either type or write up your problem sets, just make sure your work is l
 
 Many of the questions may be open ended, but think of the length of your response as proportional to the amount of points that the question is worth. You do not need to go on for paragraphs; a succinct couple of sentences should do. Bullet points are also acceptable.
 
+### Can I take this course as pass/fail?
+Yes, please refer to the syllabus page for the relavant assessment information
+
 ### What will the problem sets consist of? Do I need to know how to code or do statistics?
 The problem sets will be a mix of discussion questions (e.g., is it ethical to use neural prosthetics to enhance cognition?) and technical questions (e.g., please calculate the time delay between neural signal A and neural signal B reaching the brain). You do **not** need to know how to code or do statistics, but you will at times need to perform basic calculations from formulas that we will teach and explain. Everything you need to know to complete the psets will be covered in lecture or section. 
 
