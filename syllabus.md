@@ -48,7 +48,7 @@ There are no formal prerequisites to this course, and students do not need to be
 | 10% | Lecture attendance / participation*     |
 | 10% | Section attendance / participation      |
 | 40% | Problem sets (4 total), 10% each        |
-| 20% | Mid-term take-home exam                 |
+| 20% | Mid-term in class exam                  |
 | 20% | Final paper (2+3+15 across deliverables)|
 
 *Lectures will be interactive, with discussions throughout. Lectures will also be live-recorded and released after each class.
