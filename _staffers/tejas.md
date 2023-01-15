@@ -2,7 +2,7 @@
 name: Tejas Ramdas
 role: Teaching Fellow
 email: tejasramdas@g.harvard.edu
-website: [https://www.mcb.harvard.edu/directory/kumaresh-krishnan/](https://pinphd.hms.harvard.edu/people/tejas-ramdas)
+website: https://pinphd.hms.harvard.edu/people/tejas-ramdas
 photo: tejas.jpeg
 ---
 
