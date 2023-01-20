@@ -23,7 +23,7 @@ schedule:
       - name: Lecture
         start: 3:00 PM
         end: 4:15 PM
-        location: Science Center Hall A
+        location: Science Center Hall D
   - name: Tuesday
   - name: Wednesday
     events:
