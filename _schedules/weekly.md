@@ -62,7 +62,7 @@ schedule:
         location: TBD
       - name: Section D007
         start: 10:30 AM
-        end: 11:30 PM
+        end: 11:30 AM
         location: TBD
       - name: Section D008
         start: 1:30 PM
