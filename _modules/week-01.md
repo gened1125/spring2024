@@ -4,7 +4,7 @@ title: Week 1 - Introduction
 
 Jan 23
 : **LEC 1**{: .label .label-grey} **What is Intelligence?** 🎥  
-    : Slides
+    : [Slides](https://canvas.harvard.edu/files/16754884/download?download_frd=1)
 : Readings 📖
 
 Jan 25
