@@ -10,6 +10,7 @@ Jan 23
 
 Jan 25
 : **LEC 2**{: .label .label-grey} **With Great Power Comes Great Responsibility** 🎥 
-    : Slides
+    : [Slides](https://canvas.harvard.edu/files/16773288/download?download_frd=1)
 : Readings 📖
-
+: [Ethics_of_brain](https://canvas.harvard.edu/files/16773298/download?download_frd=1)
+: [Ruha_Benjamin](https://canvas.harvard.edu/files/16773299/download?download_frd=1)
