@@ -6,11 +6,8 @@ Jan 30
 : **LEC 3**{: .label .label-grey } **The Building Blocks of the Brain** 🎥
     : Slides
 : Readings 📖
-
-<!--
-: Neuroscience Primer](https://canvas.harvard.edu/files/14251618/download?download_frd=1)
-: Lecture Notes](https://canvas.harvard.edu/files/14251627/download?download_frd=1) written by a former GenEd 1125 student!
--->
+: [Intro_to_neurons](https://canvas.harvard.edu/files/16796279/download?download_frd=1)
+: [Online_intro](https://nba.uth.tmc.edu/neuroscience/m/s1/introduction.html)
 
 Feb 1
 : **LEC 4**{: .label .label-grey } **Guest Lecturer** 🎥
