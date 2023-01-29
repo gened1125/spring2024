@@ -34,66 +34,46 @@ schedule:
         start: 3:00 PM
         end: 4:15 PM
         location: Science Center Hall C
-      - name: Section D001
+      - name: Section D001, D002, D015
         start: 4:30 PM
         end: 5:30 PM
-        location: TBD
-      - name: Section D002
-        start: 4:30 PM
-        end: 5:30 PM
-        location: TBD
-      - name: Section D003
+        location: TBD, TBD, TBD
+      - name: Section D004, D018
         start: 6:00 PM
         end: 7:00 PM
-        location: TBD
-      - name: Section D004
-        start: 6:00 PM
-        end: 7:00 PM
-        location: TBD
+        location: TBD, TBD
   - name: Thursday
     events:
       - name: Section D005
         start: 9:00 AM
         end: 10:00 AM
-        location: TBD
+        location: Biolabs 2062
       - name: Section D006
         start: 10:30 AM
         end: 11:30 AM
-        location: TBD
-      - name: Section D007
-        start: 10:30 AM
-        end: 11:30 AM
-        location: TBD
-      - name: Section D008
+        location: Biolabs 2062
+      - name: Section D008, D016
         start: 1:30 PM
         end: 2:30 PM
-        location: TBD
-      - name: Section D009
+        location: TBD, Biolabs 2062
+      - name: Section D009, D017
         start: 3:00 PM
         end: 4:00 PM
-        location: TBD
+        location: TBD, TBD
   - name: Friday
     events:
-      - name: Section D010
-        start: 9:00 AM
-        end: 10:00 AM
-        location: TBD
       - name: Section D011
-        start: 10:30 AM
-        end: 11:30 AM
-        location: TBD
-      - name: Section D012
         start: 10:30 AM
         end: 11:30 AM
         location: TBD
       - name: Section D013
         start: 1:30 PM
         end: 2:30 PM
-        location: TBD
+        location: Biolabs 2062
       - name: Section D014
         start: 3:00 PM
         end: 4:00 PM
-        location: TBD
+        location: Biolabs 2062
   - name: Saturday
   - name: Sunday
 ---
