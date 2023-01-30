@@ -32,7 +32,7 @@ Lectures are held every Monday and Wednesday from 3-4:15PM in Science Center Hal
 ## Section  👩‍🏫
 Sections will be held by the course TFs on different days of the week. Section will be a mix of content review, group discussion, and going over problem sets. At the beginning of the semester, every student will be assigned a section (by rank-order preference) and section attendance is mandatory and part of your final grade. You must attend your own section to recieve credit. If you need to miss section for whatever reason, please email your section TF so that you can get caught up on the material for that week.
 
-## Office Hours  ⏰
+## Office Hours ⏰
 Part of section every week will be dedicated to answering questions and clarifying course content. In addition to that, Prof. Murthy will hold office hours (Mondays 11am-12noon, Tuesdays 3:30-4:30pm in Biolabs 4027. Email if you want to meet on Zoom).
 
 ## Class Notes 🗒️
