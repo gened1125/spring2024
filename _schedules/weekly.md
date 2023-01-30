@@ -37,11 +37,11 @@ schedule:
       - name: Section D001, D002, D015
         start: 4:30 PM
         end: 5:30 PM
-        location: SC304, SC310, SC309
+        location: Science center
       - name: Section D004, D018
         start: 6:00 PM
         end: 7:00 PM
-        location: SC304, SC310
+        location: Science center
   - name: Thursday
     events:
       - name: Section D005
