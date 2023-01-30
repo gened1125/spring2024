@@ -6,7 +6,7 @@ Jan 30
 : **LEC 3**{: .label .label-grey } **The Building Blocks of the Brain** [🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d76e5d4d-48a7-42bd-9b8e-af90013626ac)
     : [Slides](https://canvas.harvard.edu/files/16796298/download?download_frd=1)
 
-: Readings 📖
+: Reading and link 📖
 : [Intro_to_neurons](https://canvas.harvard.edu/files/16796279/download?download_frd=1)
 : [Online_intro](https://nba.uth.tmc.edu/neuroscience/m/s1/introduction.html)
 
