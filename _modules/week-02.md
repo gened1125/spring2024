@@ -7,7 +7,10 @@ Jan 30
     : [Slides](https://canvas.harvard.edu/files/16796298/download?download_frd=1)
 : Readings 📖
 : [Intro_to_neurons](https://canvas.harvard.edu/files/16796279/download?download_frd=1)
+
+<!--
 : [Online_intro](https://nba.uth.tmc.edu/neuroscience/m/s1/introduction.html)
+-->
 
 Feb 1
 : **LEC 4**{: .label .label-grey } **Guest Lecturer** 🎥
