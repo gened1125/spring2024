@@ -27,5 +27,5 @@ Section
 
 <!--
 : Introduction, purpose of section
-: Discussion: What is intelligence?, Marr's levels, AI ethics 
+: Discussion: What is intelligence?, Marr's levels, AI ethics
 -->
