@@ -16,7 +16,7 @@ seo:
 **Instructor: Professor Venkatesh Murthy**  ([vnmurthy@fas.harvard.edu](mailto:vnmurthy@fas.harvard.edu)) \
 **Head TF: Kumaresh Krishnan**  ([kumaresh_krishnan@g.harvard.edu](mailto:kumaresh_krishnan@g.harvard.edu)) \
 **Lecture: M/W 3-4:15PM | Location: Science Center Hall C**\
-**Section times: Tentative times shown in schedule tab (Submit sectioning preferences on my.harvard after enrolling)**
+**Section times: Tentative times shown in schedule tab (Submit sectioning preferences on my.harvard after enrolling!)**
 
 Quick Links
 * [PDF version](https://canvas.harvard.edu/files/16662546/download?download_frd=1) of the course schedule and syllabus.
