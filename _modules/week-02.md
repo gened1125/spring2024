@@ -4,7 +4,7 @@ title: Week 2 - The Building Blocks of Biological and Artificial Intelligence
 
 Jan 30
 : **LEC 3**{: .label .label-grey } **The Building Blocks of the Brain** 🎥
-    : [Slides](https://canvas.harvard.edu/files/16796298/download?download_frd=1)
+: [Slides](https://canvas.harvard.edu/files/16796298/download?download_frd=1)
 : Readings 📖
 
 <!--
