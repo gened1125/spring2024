@@ -13,8 +13,7 @@ Jan 30
 Feb 1
 : **LEC 4**{: .label .label-grey } **Guest Lecturer** 🎥
 : **PSET 1 handed out**{: .label .label-green} Covers lectures 1-4
-    : [PSet1 pdf](https://canvas.harvard.edu/courses/115291/files/folder/2023%20-%20Problem%20Sets/pset1#) / [PSet1 latex](https://canvas.harvard.edu/courses/115291/files/folder/2023%20-%20Problem%20Sets/pset1#)
-
+    : [PSet1 pdf](https://canvas.harvard.edu/files/16822592/download?download_frd=1) / [PSet1 latex](https://canvas.harvard.edu/files/16822593/download?download_frd=1)
 <!--
 : Papers mentioned in Prof. Lichtman's talk 📄
 : * [A Technicolor Approach to the Connectome](https://canvas.harvard.edu/files/14287742/download?download_frd=1)
