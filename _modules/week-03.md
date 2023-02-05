@@ -6,8 +6,8 @@ Feb 6
 : **LEC 5**{: .label .label-grey } **The Architecture of the Brain - I** 🎥
      : [Slides](https://canvas.harvard.edu/files/16842898/download?download_frd=1)
 : Readings 📖
-:[Quick summary of neural circuits](https://canvas.harvard.edu/files/16842947/download?download_frd=1)
-:[Neurons & Circuits draft chapter](https://www.cs.utexas.edu/~dana/Ch3.pdf)
+: [Quick summary of neural circuits](https://canvas.harvard.edu/files/16842947/download?download_frd=1)
+: [Neurons & Circuits draft chapter](https://www.cs.utexas.edu/~dana/Ch3.pdf)
 
 Feb 8
 :  **LEC 6**{: .label .label-grey } **The Architecture of the Brain - II** 🎥
