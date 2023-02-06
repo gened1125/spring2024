@@ -13,7 +13,7 @@ Jan 30
 Feb 1
 : **LEC 4**{: .label .label-grey } **Guest Lecturer** [🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c985f118-1a40-4f56-a6cc-ae2b0161236b)
 : **PSET 1 handed out**{: .label .label-green} Covers lectures 1-4
-    : [PSet1 pdf](https://canvas.harvard.edu/files/16822714/download?download_frd=1) / [PSet1 latex](https://canvas.harvard.edu/files/16822715/download?download_frd=1)
+    : [PSet1 pdf](https://canvas.harvard.edu/files/16848032/download?download_frd=1) / [PSet1 latex](https://canvas.harvard.edu/files/16822715/download?download_frd=1)
     
 <!--
 : Papers mentioned in Prof. Lichtman's talk 📄
