@@ -10,7 +10,7 @@ Feb 6
 : [Neurons & Circuits draft chapter](https://www.cs.utexas.edu/~dana/Ch3.pdf)
 
 Feb 8
-:  **LEC 6**{: .label .label-grey } **The Architecture of the Brain - II** 🎥
+:  **LEC 6**{: .label .label-grey } **The Architecture of the Brain - II** [🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=50d19c07-d140-4ed7-9d3e-afa1010616e5)
      : [Slides](https://canvas.harvard.edu/files/16864004/download?download_frd=1)
 : Readings 📖
 
