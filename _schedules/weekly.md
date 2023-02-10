@@ -55,17 +55,17 @@ schedule:
       - name: D008, D016
         start: 1:30 PM
         end: 2:30 PM
-        location: TBD, Biolabs 2062
+        location: NW B104, Biolabs 2062
       - name: D009, D017
         start: 3:00 PM
         end: 4:00 PM
-        location: TBD, TBD
+        location: NW B104, NW B109
   - name: Friday
     events:
       - name: D011
         start: 10:30 AM
         end: 11:30 AM
-        location: TBD
+        location: William James 501
       - name: D013
         start: 1:30 PM
         end: 2:30 PM
