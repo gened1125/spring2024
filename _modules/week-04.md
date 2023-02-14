@@ -9,14 +9,13 @@ Feb 13
 : [Blog post Intro to Neural Nets](https://purnasaigudikandula.medium.com/a-beginner-intro-to-neural-networks-543267bda3c8)
 : [Intro to NNs - Chap 1](http://neuralnetworksanddeeplearning.com/chap1.html)
 
-<!--
-: *Deep Learning Book - Intro
-: *Blog Post - Data Annotation
--->
 
 Feb 15
 : **LEC 8**{: .label .label-grey } **How Networks Learn** 🎥
 : Readings 📖
+: [Deep learning book Intro](https://www.deeplearningbook.org/contents/intro.html)
+: [Backprop_explanation](http://neuralnetworksanddeeplearning.com/chap2.html)
+: [Annotation for AI](https://medium.com/vsinghbisen/why-data-annotation-is-important-for-machine-learning-and-ai-5e647637c621)
 : **PSET 2 handed out**{: .label .label-green} Covers lectures 5-8
 
 Section
