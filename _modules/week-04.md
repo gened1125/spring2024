@@ -18,5 +18,6 @@ Feb 15
 : [Backprop_explanation](http://neuralnetworksanddeeplearning.com/chap2.html)
 : [Annotation for AI](https://medium.com/vsinghbisen/why-data-annotation-is-important-for-machine-learning-and-ai-5e647637c621)
 : **PSET 2 handed out**{: .label .label-green} Covers lectures 5-8
+  : [PSet2 (pdf)](https://canvas.harvard.edu/files/16923303/download?download_frd=1)  [LaTeX](https://canvas.harvard.edu/files/16923311/download?download_frd=1)
 
 Section
