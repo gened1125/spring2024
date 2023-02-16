@@ -18,5 +18,6 @@ Feb 22
 
 Feb 24
 :  **PSET 2 DUE @ 11:59PM**{: .label .label-red }
+    : [Submit PSet 2](https://canvas.harvard.edu/courses/115291/assignments/683733)
 
 Section
