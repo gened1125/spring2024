@@ -11,7 +11,7 @@ Feb 22
 : Readings 📖
 : [Primer_DeepLearning_Networks](https://canvas.harvard.edu/files/16963742/download?download_frd=1)
 : [Vision_Chapter](https://canvas.harvard.edu/files/16962612/download?download_frd=1)
-: [LeCun_NeuralComp - advanced reading!](https://canvas.harvard.edu/files/16962610/download?download_frd=1)
+: [LeCun_NeuralComp - advanced reading!](https://canvas.harvard.edu/files/16963800/download?download_frd=1)
 
 <!--
 : * [The Neuroscience of Vision]
