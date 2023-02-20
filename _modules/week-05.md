@@ -9,7 +9,7 @@ Feb 22
 :  **LEC 9**{: .label .label-grey } **Primary Visual Cortex and Convolutional Neural Networks (CNNs)** 🎥
     : Slides
 : Readings 📖
-: [Primer_DeepLearning_Networks](https://canvas.harvard.edu/files/16962608/download?download_frd=1)
+: [Primer_DeepLearning_Networks](https://canvas.harvard.edu/files/16963742/download?download_frd=1)
 : [Vision_Chapter](https://canvas.harvard.edu/files/16962612/download?download_frd=1)
 : [LeCun_NeuralComp - advanced reading!](https://canvas.harvard.edu/files/16962610/download?download_frd=1)
 
