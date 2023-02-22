@@ -21,6 +21,6 @@ Feb 8
 
 Feb 10
 :  **PSET 1 DUE @ 11:59**{: .label .label-red } 
-    : Submit PSET 1
+    : [PSet 1 Key](https://canvas.harvard.edu/files/16980342/download?download_frd=1)
 
 Section
