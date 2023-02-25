@@ -6,6 +6,7 @@ Feb 27
 :  **LEC 10**{: .label .label-grey } **Dimensionality Reduction and Invariant Representations** 🎥
     : Slides
 : Readings 📖
+: [Dimension_Reduction_Primer](https://canvas.harvard.edu/files/16999592/download?download_frd=1)
 
 Mar 1
 : **LEC 11**{: .label .label-grey } **Guest Lecturer** 🎥
