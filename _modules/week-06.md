@@ -3,7 +3,7 @@ title: Week 6 - Learning Complex Representations
 ---
 
 Feb 27
-:  **LEC 10**{: .label .label-grey } **Dimensionality Reduction and Invariant Representations** 🎥
+:  **LEC 10**{: .label .label-grey } **Dimensionality Reduction and Invariant Representations** [🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36858d0f-5f4e-4c98-8244-afa10106179c)
     : [Slides](https://canvas.harvard.edu/files/17005790/download?download_frd=1)
 : Readings 📖
 : [Dimension_Reduction_Primer](https://canvas.harvard.edu/files/16999592/download?download_frd=1)
