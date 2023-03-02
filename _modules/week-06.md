@@ -9,7 +9,7 @@ Feb 27
 : [Dimension_Reduction_Primer](https://canvas.harvard.edu/files/16999592/download?download_frd=1)
 
 Mar 1
-: **LEC 11**{: .label .label-grey } **Guest Lecturer** 🎥
+: **LEC 11**{: .label .label-grey } **Guest Lecturer (Prof. Nancy Kanwisher)** [🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5cc7068b-0f07-461a-85dd-afa1010617c7)
 : Readings 📖
 
 <!--
