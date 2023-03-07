@@ -13,6 +13,7 @@ Feb 6
 Feb 8
 :  **LEC 6**{: .label .label-grey } **The Architecture of the Brain - II** [🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=50d19c07-d140-4ed7-9d3e-afa1010616e5)
      : [Slides](https://canvas.harvard.edu/files/16864004/download?download_frd=1)
+: [Lecture Notes](https://canvas.harvard.edu/files/17075490/download?download_frd=1)
 : Readings 📖
 
 <!--
