@@ -13,6 +13,7 @@ Feb 13
 Feb 15
 : **LEC 8**{: .label .label-grey } **How Networks Learn** [🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=af788f92-e818-47fe-9216-afa101061733)
   : [Slides](https://canvas.harvard.edu/files/16914839/download?download_frd=1)
+: [Lecture Notes](https://canvas.harvard.edu/courses/115291/files/17078628?wrap=1)
 : Readings 📖
 : [Deep learning book Intro](https://www.deeplearningbook.org/contents/intro.html)
 : [Backprop_explanation](http://neuralnetworksanddeeplearning.com/chap2.html)
