@@ -11,5 +11,6 @@ Mar 6
 
 Mar 8
 : **In class mid term exam**
+    : [Midterm Key](https://canvas.harvard.edu/files/17136321/download?download_frd=1)
 
 Section
