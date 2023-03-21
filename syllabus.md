@@ -24,7 +24,7 @@ What is intelligence? An inquiry into the nature of intelligence can take differ
 The [course website](https://gened1125.github.io/spring2023) will be used for the **course schedule and links to all readings and problem set submissions**, while the [course Canvas](https://canvas.harvard.edu/courses/115291/) will be where you **submit your problem sets, midterm, and final paper**, and where we **send announcements** via the course emailer (be sure you have notifications turned on in Canvas!).
 
 ## Enrolling As Pass/Fail
-We are open to enrollment as pass/fail. In terms of assessment - we expect >80% lecture/section attendance and >70% across all assessments to grant a passing grade.
+We are open to enrollment as pass/fail. In terms of assessment - we expect >80% lecture/section attendance and >65% across all assessments to grant a passing grade.
 
 ## Lecture  👨‍🏫
 Lectures are held every Monday and Wednesday from 3-4:15PM in Science Center Hall C. Lecture attendance is mandatory and part of your final grade. We will use an interactive poll system ([PollEv](https://pollev.com/gened1125)) to record class participation. Lectures will be recorded and released after each class for review. If you need to miss lecture for whatever reason, please [email the Head TF (Kumaresh)](https://mail.google.com/mail/?view=cm&source=mailto&to=kumaresh_krishnan@g.harvard.edu).
@@ -40,6 +40,21 @@ Problem sets will be a mix of short-form discussion questions and simple technic
 
 ## Course Prerequisites ➰
 There are no formal prerequisites to this course, and students do not need to be from a technical or science background. Some basic high school math may be required for some problem sets.
+
+## Indicative Grade Cutoff
+|Grade| Range |
+|-----|-------|
+| A   | 92+   |
+| A-  | 88-91 |
+| B+  | 84-87 |
+| B   | 81-83 |
+| B-  | 76-80 |
+| C+  | 72-75 |
+| C   | 69-71 |
+| C-  | 66-68 |
+| D+  | 63-65 |
+| D   | 60-62 |
+| D-  | < 60  |
 
 ## Assessment 💯
 
