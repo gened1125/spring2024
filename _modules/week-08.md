@@ -10,7 +10,7 @@ Mar 20
 : [Learning_and_Memory_brief_Intro](https://canvas.harvard.edu/files/17129807/download?download_frd=1)
 
 Mar 22
-: **LEC 14**{: .label .label-grey } **Guest Lecturer - Nao Uchida (Reinforcement Learning)**
+: **LEC 14**{: .label .label-grey } **Guest Lecturer - Nao Uchida (Reinforcement Learning)** [🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=edc186b7-69aa-452d-a5c7-afa1010618b3)
 : Readings 📖
 
 Section:
