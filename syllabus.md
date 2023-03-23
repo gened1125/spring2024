@@ -43,6 +43,7 @@ There are no formal prerequisites to this course, and students do not need to be
 
 ## Indicative Grade Cutoff
 These are only indicative grades. Boundaries may be adjusted to account for potential variations in the remaining assessments.
+
 |Grade| Range |
 |-----|-------|
 | A   | 92+   |
