@@ -4,7 +4,7 @@ title: Week 9 - Language and Learning
 
 Mar 27
 : **LEC 15**{: .label .label-grey } **Natural Language** 🎥
-    : Slides
+    : [Slides](https://canvas.harvard.edu/files/17190585/download?download_frd=1)
 : Readings 📖
 : [Bird Communication](https://canvas.harvard.edu/files/17185190/download?download_frd=1)
 : [Human Language](https://canvas.harvard.edu/files/17185191/download?download_frd=1)
