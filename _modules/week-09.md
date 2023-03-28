@@ -11,7 +11,7 @@ Mar 27
 
 Mar 29
 :  **LEC 16**{: .label .label-grey } **Language and Machines** 🎥
-    : Slides
+    : [Slides](https://canvas.harvard.edu/files/17207696/download?download_frd=1)
 : Readings 📖
 : [Guide to NLP](https://canvas.harvard.edu/files/17205602/download?download_frd=1)
 : [GPT-3 explained](https://canvas.harvard.edu/files/17205599/download?download_frd=1)
