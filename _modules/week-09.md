@@ -13,7 +13,7 @@ Mar 29
 :  **LEC 16**{: .label .label-grey } **Language and Machines** 🎥
     : Slides
 : Readings 📖
-: [Guide to NLP] (https://canvas.harvard.edu/files/17205602/download?download_frd=1)
+: [Guide to NLP](https://canvas.harvard.edu/files/17205602/download?download_frd=1)
 : [GPT-3 explained](https://canvas.harvard.edu/files/17205599/download?download_frd=1)
 : **PSET 3 handed out**{: .label .label-green } Covers lectures 13-16
     : PSET 3
