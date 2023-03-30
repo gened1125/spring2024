@@ -16,7 +16,7 @@ Mar 29
 : [Guide to NLP](https://canvas.harvard.edu/files/17205602/download?download_frd=1)
 : [GPT-3 explained](https://canvas.harvard.edu/files/17205599/download?download_frd=1)
 : **PSET 3 handed out**{: .label .label-green } Covers lectures 13-16
-    : PSET 3
+    : PSET 3 [pdf](https://canvas.harvard.edu/files/17224129/download?download_frd=1) / [LaTeX](https://canvas.harvard.edu/files/17224136/download?download_frd=1)
 
 
 Section:
