@@ -11,6 +11,7 @@ Mar 20
 
 Mar 22
 : **LEC 14**{: .label .label-grey } **Guest Lecturer - Nao Uchida (Reinforcement Learning)** [🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=edc186b7-69aa-452d-a5c7-afa1010618b3)
+    : [Slides](https://canvas.harvard.edu/files/17219953/download?download_frd=1)
 : Readings 📖
 
 Section:
