@@ -3,7 +3,7 @@ title: Week 10 - Applications
 ---
 
 Apr 3
-: **LEC 17**{: .label .label-grey } **Learning To Play Complex Games** 🎥
+: **LEC 17**{: .label .label-grey } **Learning To Play Complex Games** [🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c4cba6d6-dffd-4aa9-95ac-afa101061924)
   : [Slides](https://canvas.harvard.edu/files/17239080/download?download_frd=1)
 : Readings 📖
 : [A Brief History of Game AI](https://www.andreykurenkov.com/writing/ai/a-brief-history-of-game-ai/)
