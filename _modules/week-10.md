@@ -14,7 +14,6 @@ Apr 5
 : **LEC 18**{: .label .label-grey } **Learning How To Drive A Car** 🎥
   : Slides
 : Readings 📖
-: [Self-driving Cars Blog post](https://www.rambus.com/blogs/autonomous-vehicles-explained/)
 : [Stanley_DARPA_Challenge](https://canvas.harvard.edu/files/17256330/download?download_frd=1)
   
 Apr 7
