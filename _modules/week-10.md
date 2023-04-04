@@ -12,7 +12,7 @@ Apr 3
 
 Apr 5
 : **LEC 18**{: .label .label-grey } **Learning How To Drive A Car** 🎥
-  : Slides
+  : [Slides](https://canvas.harvard.edu/files/17258601/download?download_frd=1)
 : Readings 📖
 : [NHTSA vehicle safety](https://www.nhtsa.gov/technology-innovation/automated-vehicles-safety)
 : [Self-driving Cars Blog](https://sitn.hms.harvard.edu/flash/2017/self-driving-cars-technology-risks-possibilities/)
