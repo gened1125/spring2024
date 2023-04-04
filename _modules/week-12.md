@@ -15,7 +15,7 @@ Apr 17
 -->
 
 Apr 19
-: **LEC 22**{: .label .label-grey } **Dreams in Brains and Machines** 🎥 
+: **LEC 22**{: .label .label-grey } **Guest Lecture - Towards General AI & What is Missing?** 🎥 
   : Slides
 : Readings 📖
 
