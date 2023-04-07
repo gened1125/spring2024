@@ -11,7 +11,7 @@ Apr 3
 : [Teaching AI to Play Games](https://canvas.harvard.edu/files/17236644/download?download_frd=1)
 
 Apr 5
-: **LEC 18**{: .label .label-grey } **Learning How To Drive A Car** [🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=46094c16-29d4-44fd-8536-afa101061944)
+: **LEC 18**{: .label .label-grey } **Learning How To Drive A Car** 🎥
   : [Slides](https://canvas.harvard.edu/files/17258601/download?download_frd=1)
 : Readings 📖
 : [NHTSA vehicle safety](https://www.nhtsa.gov/technology-innovation/automated-vehicles-safety)
