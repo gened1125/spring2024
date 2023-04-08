@@ -6,11 +6,8 @@ Apr 10
 : **LEC 19**{: .label .label-grey } **Mind-Reading** 🎥
   : Slides
 : Readings 📖
-
-<!--
-: * [Mind Reading and Writing](https://canvas.harvard.edu/files/14672393/download?download_frd=1)
-: * [Computer Mouse Inside your Head](https://canvas.harvard.edu/files/14672423/download?download_frd=1)
--->
+: [Mind Reading and Writing](https://canvas.harvard.edu/files/17284931/download?download_frd=1)
+: [Brain Computer Interface](https://canvas.harvard.edu/files/17284932/download?download_frd=1)
 
 Apr 12
 : **LEC 20**{: .label .label-grey } **Interpreting Machines** 🎥 
