@@ -3,7 +3,7 @@ title: Week 11 - What Does The Black Box Do?
 ---
 
 Apr 10
-: **LEC 19**{: .label .label-grey } **Mind-Reading** 🎥
+: **LEC 19**{: .label .label-grey } **Mind-Reading** [🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba712646-9171-4fe9-9592-afa101061966)
   : [Slides](https://canvas.harvard.edu/files/17290844/download?download_frd=1)
 : Readings 📖
 : [Mind Reading and Writing](https://canvas.harvard.edu/files/17284931/download?download_frd=1)
