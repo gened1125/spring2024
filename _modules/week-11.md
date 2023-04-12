@@ -16,7 +16,7 @@ Apr 12
 : [Explainable AI CMU blog](https://insights.sei.cmu.edu/blog/what-is-explainable-ai/)
 : [Introduction to Interpretable ML](https://petuum.medium.com/introduction-to-interpretable-machine-learning-3a62870f2f37)
 : [Towards a Rigorous Science of ML (read up to end of section 2)](https://canvas.harvard.edu/files/17299595/download?download_frd=1)
-:  **PSET 4 handed out**{: .label .label-green} Covers lectures 16-20
+: **PSET 4 handed out**{: .label .label-green} Covers lectures 16-20
   : [PSet 4 Pdf](https://canvas.harvard.edu/files/17311445/download?download_frd=1) / [LaTeX](https://canvas.harvard.edu/files/17311449/download?download_frd=1)
 
 
