@@ -10,7 +10,7 @@ Apr 10
 : [Brain Computer Interface](https://canvas.harvard.edu/files/17284932/download?download_frd=1)
 
 Apr 12
-: **LEC 20**{: .label .label-grey } **Interpreting Machines** 🎥 
+: **LEC 20**{: .label .label-grey } **Interpreting Machines** [🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d1dc4d08-3f26-4f5e-bb26-afa101061988) 
   : [Slides](https://canvas.harvard.edu/files/17308136/download?download_frd=1)
 : Readings 📖
 : [Explainable AI CMU blog](https://insights.sei.cmu.edu/blog/what-is-explainable-ai/)
