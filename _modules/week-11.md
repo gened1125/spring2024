@@ -11,7 +11,7 @@ Apr 10
 
 Apr 12
 : **LEC 20**{: .label .label-grey } **Interpreting Machines** 🎥 
-  : Slides
+  : [Slides](https://canvas.harvard.edu/files/17308136/download?download_frd=1)
 : Readings 📖
 : [Explainable AI CMU blog](https://insights.sei.cmu.edu/blog/what-is-explainable-ai/)
 : [Introduction to Interpretable ML](https://petuum.medium.com/introduction-to-interpretable-machine-learning-3a62870f2f37)
