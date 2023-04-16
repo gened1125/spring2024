@@ -6,13 +6,8 @@ Apr 17
 : **LEC 21**{: .label .label-grey } **Human & Algorithmic Biases** 🎥 
   : Slides
 : Readings 📖
-
-<!--
-: * [Illusions](https://www.vox.com/science-and-health/20978285/optical-illusion-science-humility-reality-polarization)
-: * [Fairness in ML](https://canvas.harvard.edu/files/14742396/download?download_frd=1)
-: **PSET 4 handed out**{: .label .label-green } Covers lectures 18-21
-  : [PSET 4](https://canvas.harvard.edu/files/14746086/download?download_frd=1) / [tex](https://canvas.harvard.edu/files/14746090/download?download_frd=1)
--->
+: [Illusions](https://www.vox.com/science-and-health/20978285/optical-illusion-science-humility-reality-polarization)
+: [Fairness in ML](https://fairmlbook.org/introduction.html)
 
 Apr 19
 : **LEC 22**{: .label .label-grey } **Guest Lecture - Towards General AI & What is Missing?** 🎥 
