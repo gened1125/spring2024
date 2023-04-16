@@ -7,6 +7,7 @@ Apr 17
   : Slides
 : Readings 📖
 : [Illusions](https://www.vox.com/science-and-health/20978285/optical-illusion-science-humility-reality-polarization)
+: [Cognitive Biases](https://canvas.harvard.edu/files/17335803/download?download_frd=1)
 : [Fairness in ML](https://fairmlbook.org/introduction.html)
 
 Apr 19
