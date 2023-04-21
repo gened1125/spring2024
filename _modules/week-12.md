@@ -12,7 +12,7 @@ Apr 17
 
 Apr 19
 : **LEC 22**{: .label .label-grey } **Guest Lecture - Towards General AI & What is Missing?** [🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a713e071-30df-40c4-b0dd-afa1010619c9)
-: Slides
+  : Slides
 : Readings 📖
 
 
