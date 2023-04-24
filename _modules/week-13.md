@@ -1,5 +1,5 @@
 ---
-title: Week 13 - Towards General AI & What is Missing?
+title: Week 13 - Final thoughts
 ---
 
 Apr 24
