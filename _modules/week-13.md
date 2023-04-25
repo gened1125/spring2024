@@ -3,7 +3,7 @@ title: Week 13 - Final thoughts
 ---
 
 Apr 24
-: **LEC 23**{: .label .label-grey } **Dreams in Brains and Machines** 🎥  
+: **LEC 23**{: .label .label-grey } **Dreams in Brains and Machines** [🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8f935638-006b-4dd8-ada8-afa1010619e9)
   : [Slides](https://canvas.harvard.edu/files/17382587/download?download_frd=1)
 : Readings 📖
 : [When_Robots_Hallucinate](https://canvas.harvard.edu/files/17378948/download?download_frd=1)
