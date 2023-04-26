@@ -11,7 +11,7 @@ Apr 24
 : [Replay_in_neuralnetworks](https://www.deepmind.com/blog/replay-in-biological-and-artificial-neural-networks)
 
 Apr 26
-: **Course Summary & Feedback** 🎥
+: **Course Summary & Feedback** [🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2cd7e13c-e9f9-4cfb-8c02-afa101061a0d)
 : **FEEDBACK**{: .label .label-green } End-of-year course feedback
 
 May 8
