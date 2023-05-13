@@ -18,6 +18,7 @@ Apr 19
 
 Apr 21
 : **PSET 4 DUE @ 11:59PM**{: .label .label-red }
+  : [PSet4 Key](https://canvas.harvard.edu/files/17516494/download?download_frd=1)
 
 Section
 
