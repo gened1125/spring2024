@@ -62,8 +62,8 @@ These are only indicative grades. Boundaries may be adjusted to account for pote
 
 |  %  | Course Component                        |
 |-----|-----------------------------------------|
-| 10% | Lecture attendance / participation*     |
-| 10% | Section attendance / participation      |
+| 10% | Lecture/Section participation/attendance|
+| 10% | Readings                                |
 | 40% | Problem sets (4 total), 10% each        |
 | 20% | Mid-term in class exam                  |
 | 20% | Final paper (2+3+15 across deliverables)|
@@ -75,18 +75,18 @@ All problem sets due on Friday at 11:59pm
 
 | Date           | Event                                                                                             |
 |----------------|---------------------------------------------------------------------------------------------------|
-| 02/01          | PSet 1 handed out (Lectures 1-4)                                                                  |
-| **02/10**      | PSet 1 due @ 11:59pm                                                                              |
-| 02/15          | PSet 2 handed out (Lectures 5-8)                                                                  |
-| 02/21          | Deadline to add / drop a course (fee) and to change from letter-graded to Pass/Fail or vice versa |
-| **02/24**      | PSet 2 due @ 11:59pm                                                                              |
-| 03/08          | Midterm (in class)                                                                                |
-| 03/11 to 03/19 | Spring Break!                                                                                     |
-| 03/29          | PSet 3 handed out (Lectures 13-16)                                                                |
-| **04/07**      | PSet 3 due @ 11:59pm                                                                              |
-| 04/12          | PSet 4 handed out (Lectures 17-20)                                                                |
-| **04/21**      | PSet 4 due @ 11:59pm, paper proposal due (in Section)                                             |
-| **05/08**      | Final paper due                                                                                   |
+| 01/31          | PSet 1 handed out (Lectures 1-4)                                                                  |
+| **02/09**      | PSet 1 due @ 11:59pm                                                                              |
+| 02/14          | PSet 2 handed out (Lectures 5-8)                                                                  |
+| 02/20          | Deadline to add / drop a course (fee) and to change from letter-graded to Pass/Fail or vice versa |
+| **02/23**      | PSet 2 due @ 11:59pm                                                                              |
+| 03/06          | Midterm (in class)                                                                                |
+| 03/09 to 03/17 | Spring Break!                                                                                     |
+| 03/27          | PSet 3 handed out (Lectures 13-16)                                                                |
+| **04/05**      | PSet 3 due @ 11:59pm                                                                              |
+| 04/10          | PSet 4 handed out (Lectures 17-20)                                                                |
+| **04/19**      | PSet 4 due @ 11:59pm, paper proposal due (in Section)                                             |
+| **05/06**      | Final paper due                                                                                   |
 
  **Late policy:** You are allowed one (1) late pass for problem sets (up to two days). After that, 1 point will be deducted off your problem set grade for each subsequent day that it is late.
 
