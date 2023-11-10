@@ -6,7 +6,7 @@ Apr 15
 : **LEC 21**{: .label .label-grey } **Human & Algorithmic Biases** 🎥
   : Slides
 : Readings 📖
-: **Final Paper - deliverable 2 due**
+: **Final Paper - deliverable 2 due**{: .label .label-red}
 
 Apr 17
 : **LEC 22**{: .label .label-grey } **Guest Lecture - Towards General AI & What is Missing?** 🎥
