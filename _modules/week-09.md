@@ -15,6 +15,6 @@ Mar 27
     : PSET 3 pdf
 
 Mar 29
-: **Final Paper - deliverable 1 due**
+: **Final Paper - deliverable 1 due**{: .label .label-red}
 
 Section:
