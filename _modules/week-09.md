@@ -8,10 +8,13 @@ Mar 25
 : Readings 📖
 
 Mar 27
-:  **LEC 16**{: .label .label-grey } **Language and Machines** 🎥
+: **LEC 16**{: .label .label-grey } **Language and Machines** 🎥
     : Slides
 : Readings 📖
 : **PSET 3 handed out**{: .label .label-green } Covers lectures 13-16
     : PSET 3 pdf
+
+Mar 29
+: **Final Paper - deliverable 1 due**
 
 Section:
