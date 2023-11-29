@@ -26,14 +26,14 @@ schedule:
       - name: Lecture
         start: 3:00 PM
         end: 4:15 PM
-        location: Science Center Hall C
+        location: TBD
   - name: Tuesday
   - name: Wednesday
     events:
       - name: Lecture
         start: 3:00 PM
         end: 4:15 PM
-        location: Science Center Hall C
+        location: TBD
       - name: D001, D002, D015
         start: 4:30 PM
         end: 5:30 PM
