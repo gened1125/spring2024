@@ -41,6 +41,7 @@ Problem sets will be a mix of short-form discussion questions and simple technic
 ## Course Prerequisites ➰
 There are no formal prerequisites to this course, and students do not need to be from a technical or science background. Some basic high school math may be required for some problem sets.
 
+<!--
 ## Indicative Grade Cutoff
 These are only indicative grades. Boundaries may be adjusted to account for potential variations in the remaining assessments.
 
@@ -57,6 +58,7 @@ These are only indicative grades. Boundaries may be adjusted to account for pote
 | D+  | 63-65 |
 | D   | 60-62 |
 | D-  | < 60  |
+-->
 
 ## Assessment 💯
 
