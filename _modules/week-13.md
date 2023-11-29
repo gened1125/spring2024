@@ -3,7 +3,7 @@ title: Week 13 - Final thoughts
 ---
 
 Apr 22
-: **LEC 23**{: .label .label-grey } **Dreams in Brains and Machines** 🎥
+: **LEC 23**{: .label .label-grey } **Generative AI** 🎥
   : Slides
 : Readings 📖
 
