@@ -15,8 +15,8 @@ seo:
 
 **Instructor: Professor Venkatesh Murthy**  ([vnmurthy@fas.harvard.edu](mailto:vnmurthy@fas.harvard.edu)) \
 **Head TF: Kumaresh Krishnan**  ([kumaresh_krishnan@g.harvard.edu](mailto:kumaresh_krishnan@g.harvard.edu)) \
-**Lecture: M/W 3-4:15PM | Location: TBD**\
-**Section times: Times will be edited soon!**
+**Lecture: M/W 3-4:15PM | Location: NW B103**\
+**Section times: M: 4:30, 6:00; W: 4:30; R: 10:30, 1:30, 3:00; F: 1:30**
 
 Quick Links
 * [PDF version](https://canvas.harvard.edu/files/18451112/download?download_frd=1) of the course schedule and syllabus (from 2023).
