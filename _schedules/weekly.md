@@ -26,54 +26,46 @@ schedule:
       - name: Lecture
         start: 3:00 PM
         end: 4:15 PM
-        location: TBD
+        location: NW B103
+      - name: D01
+        start: 4:30 PM
+        end: 5:30 PM
+        location: SC 110
+      - name: D02
+        start: 6:00 PM
+        end: 7:00 PM
+        location: NW B107
   - name: Tuesday
   - name: Wednesday
     events:
       - name: Lecture
         start: 3:00 PM
         end: 4:15 PM
-        location: TBD
-      - name: D001, D002, D015
+        location: NW B103
+      - name: D03
         start: 4:30 PM
         end: 5:30 PM
-        location: SC- 304, 310, 309
-      - name: D004, D018
-        start: 6:00 PM
-        end: 7:00 PM
-        location: SC- 310, 304
+        location: SC 111
   - name: Thursday
     events:
-      - name: D005
-        start: 9:00 AM
-        end: 10:00 AM
-        location: Biolabs 2062
-      - name: D006
+      - name: D05
         start: 10:30 AM
         end: 11:30 AM
-        location: Biolabs 2062
-      - name: D008, D016
+        location: LISE 303
+      - name: D07
         start: 1:30 PM
         end: 2:30 PM
-        location: NW B104, Biolabs 2062
-      - name: D009, D017
+        location: SC 104
+      - name: D08
         start: 3:00 PM
         end: 4:00 PM
-        location: NW B104, NW B109
+        location: SC 110
   - name: Friday
     events:
       - name: D011
-        start: 10:30 AM
-        end: 11:30 AM
-        location: William James 501
-      - name: D013
         start: 1:30 PM
         end: 2:30 PM
-        location: Biolabs 2062
-      - name: D014
-        start: 3:00 PM
-        end: 4:00 PM
-        location: Biolabs 2062
+        location: NW B107
   - name: Saturday
   - name: Sunday
 ---
