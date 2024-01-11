@@ -27,7 +27,7 @@ Many of the questions may be open ended, but think of the length of your respons
 ### Can I take this course as pass/fail?
 Yes, please refer to the syllabus page for the relavant assessment information
 
-### I have a conflict for one of the lecture days every week. Can I still take the course
+### I have a conflict for one of the lecture days every week. Can I still take the course?
 Unfortunately we require that there is no consistent conflict for both lecture and section. If the conflicting course allows you to miss a day every week so you can make it to lecture for GENED 1125, we do not have an issue. Class engagement and participation is an important aspect of this course and it will be better helped by having everyone available to attend the lectures.
 
 ### What will the problem sets consist of? Do I need to know how to code or do statistics?
