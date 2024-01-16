@@ -6,7 +6,7 @@ Feb 19
 : **No Class -- President's Day**
 
 Feb 21
-:  **LEC 9**{: .label .label-grey } **Primary Visual Cortex and Convolutional Neural Networks (CNNs)** 🎥
+:  **LEC 9**{: .label .label-grey } **aa** 🎥
     : Slides
 : Lecture notes
 : Readings 📖
