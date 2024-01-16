@@ -3,7 +3,7 @@ title: Week 13 - Final thoughts
 ---
 
 Apr 22
-: **LEC 23**{: .label .label-grey } **Generative AI** 🎥
+: **LEC 23**{: .label .label-grey } **Guest Lecture - Towards General AI & What is Missing?** 🎥
   : Slides
 : Readings 📖
 
