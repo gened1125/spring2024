@@ -3,7 +3,7 @@ title: Week 6 - Learning Complex Representations
 ---
 
 Feb 26
-:  **LEC 10**{: .label .label-grey } **Dimensionality Reduction and Invariant Representations** 🎥
+:  **LEC 10**{: .label .label-grey } **Primary Visual Cortex and Convolutional Neural Networks (CNNs)** 🎥
     : Slides
 : Readings 📖
 
