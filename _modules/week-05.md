@@ -6,7 +6,7 @@ Feb 19
 : **No Class -- President's Day**
 
 Feb 21
-:  **LEC 9**{: .label .label-grey } **aa** 🎥
+:  **LEC 9**{: .label .label-grey } **Dimensionality Reduction and Invariant Representations** 🎥
     : Slides
 : Lecture notes
 : Readings 📖
