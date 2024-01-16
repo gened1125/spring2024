@@ -9,7 +9,7 @@ Apr 15
 : **Final Paper - deliverable 2 due**{: .label .label-red}
 
 Apr 17
-: **LEC 22**{: .label .label-grey } **aa** 🎥
+: **LEC 22**{: .label .label-grey } **Generative AI** 🎥
   : Slides
 : Readings 📖
 
