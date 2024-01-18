@@ -19,7 +19,7 @@ seo:
 **Section times: M: 4:30, 6:00; W: 4:30; R: 10:30, 1:30, 3:00; F: 1:30**
 
 Quick Links
-* [PDF version](https://canvas.harvard.edu/files/18451112/download?download_frd=1) of the course schedule and syllabus (from 2023).
+* [PDF version](https://canvas.harvard.edu/files/19227365/download?download_frd=1) of the course schedule and syllabus.
 * [Course Preview Zoom Recording](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea20130f-9f05-40ee-835b-ae1d0145500a), where Prof. Murthy gives an overview of the course (Recorded for Spring 2022).
 * [Final paper guidelines](https://canvas.harvard.edu/files/18788275/download?download_frd=1)
 * [Grading rubric](https://canvas.harvard.edu/files/18788276/download?download_frd=1)
