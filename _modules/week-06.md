@@ -8,7 +8,7 @@ Feb 26
 : Readings 📖
 
 Feb 28
-: **LEC 11**{: .label .label-grey } **Guest Lecturer ** 🎥
+: **LEC 11**{: .label .label-grey } **Guest Lecturer** 🎥
 : Readings 📖
 
 <!--
