@@ -13,7 +13,7 @@ Jan 29
 -->
 
 Jan 31
-: **LEC 4**{: .label .label-grey } **Guest Lecturer** 🎥
+: **LEC 4**{: .label .label-grey } **Guest Lecture - Prof. Jeff Lichtman** 🎥
 : **PSET 1 handed out**{: .label .label-green} Covers lectures 1-4
 
 <!--
