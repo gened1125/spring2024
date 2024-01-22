@@ -6,4 +6,4 @@ website: https://pinphd.hms.harvard.edu/people/ramirez-duque
 photo: marc.png
 ---
 
-Bio
+Hello! I’m a 4th year graduate student in the neuroscience program (PiN), in the Engert lab. I study the role of internal states in modulating behavioral transition in larval zebrafish.
