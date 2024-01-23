@@ -6,7 +6,7 @@ Feb 19
 : **No Class -- President's Day**
 
 Feb 21
-:  **LEC 9**{: .label .label-grey } **Dimensionality Reduction and Invariant Representations** 🎥
+:  **LEC 9**{: .label .label-grey } **Dimensionality Reduction and Invariant Representations**
     : Slides
 : Lecture notes
 : Readings 📖
@@ -15,6 +15,7 @@ Feb 21
 : * [The Neuroscience of Vision]
 : * [Neural Networks and Deep Learning]
 : * [Interactive CNN Explainer]
+🎥
 -->
 
 Feb 23
