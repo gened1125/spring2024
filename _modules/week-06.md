@@ -3,16 +3,17 @@ title: Week 6 - Learning Complex Representations
 ---
 
 Feb 26
-:  **LEC 10**{: .label .label-grey } **Primary Visual Cortex and Convolutional Neural Networks (CNNs)** 🎥
+:  **LEC 10**{: .label .label-grey } **Primary Visual Cortex and Convolutional Neural Networks (CNNs)**
     : Slides
 : Readings 📖
 
 Feb 28
-: **LEC 11**{: .label .label-grey } **Guest Lecturer** 🎥
+: **LEC 11**{: .label .label-grey } **Guest Lecturer**
 : Readings 📖
 
 <!--
 : * [Face Values (Scientific American)]
+🎥
 -->
 
 <!--
