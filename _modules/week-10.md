@@ -3,12 +3,12 @@ title: Week 10 - Applications
 ---
 
 Apr 1
-: **LEC 17**{: .label .label-grey } **Learning To Play Complex Games** 🎥
+: **LEC 17**{: .label .label-grey } **Learning To Play Complex Games**
   : Slides
 : Readings 📖
 
 Apr 3
-: **LEC 18**{: .label .label-grey } **Learning How To Drive A Car** 🎥
+: **LEC 18**{: .label .label-grey } **Learning How To Drive A Car**
   : Slides
 : Readings 📖
 
