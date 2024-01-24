@@ -16,4 +16,6 @@ Feb 14
 : **PSET 2 handed out**{: .label .label-green} Covers lectures 5-8
   : PSet2 pdf
 
-Section
+Feb 17
+: **Reading Responses Due (Week 4)**{: .label .label-red
+  :[Submission](https://canvas.harvard.edu/courses/129605/assignments/794073)
