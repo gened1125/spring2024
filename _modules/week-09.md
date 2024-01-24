@@ -17,4 +17,6 @@ Mar 27
 Mar 29
 : **Final Paper - deliverable 1 due**{: .label .label-red}
 
-Section:
+Mar 31
+: **Reading Response Due - Week 9**{: .label .label-red}
+    : [Submission](https://canvas.harvard.edu/courses/129605/assignments/794078)
