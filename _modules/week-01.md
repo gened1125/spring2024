@@ -16,6 +16,4 @@ Jan 24
 : Readings 📖
 : [Ethics_of_BCI](https://canvas.harvard.edu/files/19260283/download?download_frd=1)
 : [Healthcare_bias](https://canvas.harvard.edu/files/19260282/download?download_frd=1)
-
-Reading Response
-: [Submission{: .label .label-green}](https://canvas.harvard.edu/courses/129605/assignments/797070)
+: **Reading Response Week 1**{:label .label label-green} [Submission](https://canvas.harvard.edu/courses/129605/assignments/797070)
