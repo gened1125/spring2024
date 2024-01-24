@@ -15,7 +15,7 @@ Jan 29
 Jan 31
 : **LEC 4**{: .label .label-grey } **Guest Lecture - Prof. Jeff Lichtman**
 : **PSET 1 handed out**{: .label .label-green} Covers lectures 1-4
-: **Reading Responses Due (Week 1)**{: .label label-red } [Submission](https://canvas.harvard.edu/courses/129605/assignments/797070)
+: **Reading Responses Due (Week 1)**{: .label label-red} [Submission](https://canvas.harvard.edu/courses/129605/assignments/797070)
 
 <!--
     : [PSet1 pdf](https://canvas.harvard.edu/files/16848032/download?download_frd=1) / [PSet1 latex](https://canvas.harvard.edu/files/16822715/download?download_frd=1)
