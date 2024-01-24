@@ -11,7 +11,7 @@ Jan 22
 
 Jan 24
 : **LEC 2**{: .label .label-grey} **With Great Power Comes Great Responsibility**
-    : Slides
+    : [Slides](https://canvas.harvard.edu/files/19273007/download?download_frd=1)
 : Lecture Notes
 : Readings 📖
 : [Ethics_of_BCI](https://canvas.harvard.edu/files/19260283/download?download_frd=1)
