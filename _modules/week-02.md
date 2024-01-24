@@ -18,6 +18,10 @@ Jan 31
 : **Reading Responses Due (Week 1)**{: .label .label-red}
     : [Submission](https://canvas.harvard.edu/courses/129605/assignments/797070)
 
+Feb 03
+: **Reading Responses Due (Week 2)**{: .label .label-red}
+    : [Submission](https://canvas.harvard.edu/courses/129605/assignments/794071)
+
 <!--
     : [PSet1 pdf](https://canvas.harvard.edu/files/16848032/download?download_frd=1) / [PSet1 latex](https://canvas.harvard.edu/files/16822715/download?download_frd=1)
 
