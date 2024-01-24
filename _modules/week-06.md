@@ -11,6 +11,9 @@ Feb 28
 : **LEC 11**{: .label .label-grey } **Guest Lecturer**
 : Readings 📖
 
+Mar 3
+: **Reading Response Due (Week 6)**{: .label .label-red)
+    : [Subimssion](https://canvas.harvard.edu/courses/129605/assignments/794075)
 <!--
 : * [Face Values (Scientific American)]
 🎥
