@@ -26,4 +26,3 @@ Mar 3
     : [Midterm](https://canvas.harvard.edu/files/14488382/download?download_frd=1) / [tex](https://canvas.harvard.edu/files/14488384/download?download_frd=1)
 -->
 
-Section
