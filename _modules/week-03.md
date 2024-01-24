@@ -24,6 +24,6 @@ Feb 09
 :  **PSET 1 DUE @ 11:59**{: .label .label-red } 
     : PSet 1 Key
 
-Feb 10
+Feb 11
 : **Reading Responses Due (Week 3)**{: .label .label-red}
      : [Submission](https://canvas.harvard.edu/courses/129605/assignments/794072)
