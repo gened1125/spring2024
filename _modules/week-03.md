@@ -25,5 +25,5 @@ Feb 09
     : PSet 1 Key
 
 Feb 10
-: **Reading Responses Due (Week 2)**{: .label .label-red}
+: **Reading Responses Due (Week 3)**{: .label .label-red}
      : [Submission](https://canvas.harvard.edu/courses/129605/assignments/794072)
