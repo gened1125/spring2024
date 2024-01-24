@@ -18,4 +18,4 @@ Jan 24
 : [Healthcare_bias](https://canvas.harvard.edu/files/19260282/download?download_frd=1)
 
 Reading Response
-: [Submission{: .label .label-red}](https://canvas.harvard.edu/courses/129605/assignments/797070)
+: [Submission{: .label .label-green}](https://canvas.harvard.edu/courses/129605/assignments/797070)
