@@ -16,5 +16,3 @@ Mar 20
 Mar 24
 : **Reading Responses Due - Week 8**{: .label .label-red}
     : [Submission](https://canvas.harvard.edu/courses/129605/assignments/794077)
-
-Section:
