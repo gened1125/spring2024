@@ -15,5 +15,5 @@ Apr 10
   : PSet 4 Pdf
 
 Apr 14
-  : **Reading Response Due - Week 11**{: .label .label-red
+  : **Reading Response Due - Week 11**{: .label .label-red}
     : [Submission](https://canvas.harvard.edu/courses/129605/assignments/794080)
