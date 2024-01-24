@@ -17,5 +17,5 @@ Feb 14
   : PSet2 pdf
 
 Feb 18
-: **Reading Responses Due (Week 4)**{: .label .label-red
+: **Reading Responses Due (Week 4)**{: .label .label-red}
   :[Submission](https://canvas.harvard.edu/courses/129605/assignments/794073)
