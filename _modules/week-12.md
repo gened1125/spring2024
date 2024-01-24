@@ -19,6 +19,6 @@ Apr 19
   : PSet4 Key
 
 Apr 21
-: **Reading Response Due - Week 12**{: .label .label-red)
+: **Reading Response Due - Week 12**{: .label .label-red}
   : [Submission](https://canvas.harvard.edu/courses/129605/assignments/794081)
 
