@@ -10,5 +10,3 @@ Mar 4
 Mar 6
 : **In class mid term exam**
     : Midterm Key
-
-Section
