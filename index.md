@@ -16,7 +16,7 @@ seo:
 **Instructor: Professor Venkatesh Murthy**  ([vnmurthy@fas.harvard.edu](mailto:vnmurthy@fas.harvard.edu)) \
 **Head TF: Kumaresh Krishnan**  ([kumaresh_krishnan@g.harvard.edu](mailto:kumaresh_krishnan@g.harvard.edu)) \
 **Lecture: M/W 3-4:15PM | Location: NW B103**\
-**Section times: M: 4:30, 6:00; W: 4:30; R: 10:30, 1:30, 3:00; F: 1:30**
+**Section times: M: 4:30, 6:00; W: 4:30; R: 10:30, 1:30, 3:00; F: 1:30**\
 [**Announcements**](https://canvas.harvard.edu/courses/129605/announcements) (Links to Canvas)
 
 Quick Links
