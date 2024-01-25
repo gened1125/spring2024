@@ -10,7 +10,7 @@ Jan 22
 : [Marr_vision](https://canvas.harvard.edu/files/19255943/download?download_frd=1)
 
 Jan 24
-: **LEC 2**{: .label .label-grey} **With Great Power Comes Great Responsibility**
+: **LEC 2**{: .label .label-grey} **With Great Power Comes Great Responsibility** [🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1ba4b40b-8ad8-43da-ab9e-b0ff01522938)
     : [Slides](https://canvas.harvard.edu/files/19273007/download?download_frd=1)
 : Lecture Notes
 : Readings 📖
