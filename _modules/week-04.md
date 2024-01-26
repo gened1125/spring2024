@@ -18,4 +18,4 @@ Feb 14
 
 Feb 18
 : **Reading Responses Due (Week 4)**{: .label .label-red}
-  :[Submission](https://canvas.harvard.edu/courses/129605/assignments/794073)
+  : [Submission](https://canvas.harvard.edu/courses/129605/assignments/794073)
