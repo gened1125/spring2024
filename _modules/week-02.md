@@ -5,12 +5,9 @@ title: Week 2 - The Building Blocks of Biological and Artificial Intelligence
 Jan 29
 : **LEC 3**{: .label .label-grey } **The Building Blocks of the Brain**
     : Slides
-
-<!--
-: Readings 📖 🎥
-: [Intro_to_neurons](https://canvas.harvard.edu/files/16796279/download?download_frd=1)
+: Readings 📖 
+: [Intro_to_neurons](https://canvas.harvard.edu/files/19288099/download?download_frd=1)
 : [Online_intro](https://nba.uth.tmc.edu/neuroscience/m/s1/introduction.html)
--->
 
 Jan 31
 : **LEC 4**{: .label .label-grey } **Guest Lecture - Prof. Jeff Lichtman**
