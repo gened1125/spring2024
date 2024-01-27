@@ -9,7 +9,7 @@ Mar 18
 : Readings 📖
 
 Mar 20
-: **LEC 14**{: .label .label-grey } **Guest Lecturer**
+: **LEC 14**{: .label .label-grey } **Guest Lecturer: Adam Lowet (Uchida Lab) - Reinforcement Learning**
     : Slides
 : Readings 📖
 
