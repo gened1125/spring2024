@@ -8,7 +8,7 @@ Feb 26
 : Readings 📖
 
 Feb 28
-: **LEC 11**{: .label .label-grey } **Guest Lecturer: Adam Lowet (Uchida Lab) - Reinforcement Learning**
+: **LEC 11**{: .label .label-grey } **Guest Lecturer: Talia Konkle**
 : Readings 📖
 
 Mar 3
