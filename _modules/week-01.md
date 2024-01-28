@@ -12,7 +12,7 @@ Jan 22
 Jan 24
 : **LEC 2**{: .label .label-grey} **With Great Power Comes Great Responsibility** [🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1ba4b40b-8ad8-43da-ab9e-b0ff01522938)
     : [Slides](https://canvas.harvard.edu/files/19273007/download?download_frd=1)
-: [Lecture Notes](https://canvas.harvard.edu/files/19290955/download?download_frd=1)
+: [Lecture Notes](https://canvas.harvard.edu/files/19291377/download?download_frd=1)
 : Readings 📖
 : [Ethics_of_BCI](https://canvas.harvard.edu/files/19260283/download?download_frd=1)
 : [Healthcare_bias](https://canvas.harvard.edu/files/19260282/download?download_frd=1)
