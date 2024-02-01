@@ -10,7 +10,7 @@ Jan 29
 : [Online_intro](https://nba.uth.tmc.edu/neuroscience/m/s1/introduction.html)
 
 Jan 31
-: **LEC 4**{: .label .label-grey } **Guest Lecture - Prof. Jeff Lichtman**
+: **LEC 4**{: .label .label-grey } **Guest Lecture - Prof. Jeff Lichtman** [🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c69136b6-f185-4b72-952f-b0ff015229a4)
 : **PSET 1 handed out**{: .label .label-green} Covers lectures 1-4
     : [Pdf](https://canvas.harvard.edu/files/19319210/download?download_frd=1)  [LaTeX](https://canvas.harvard.edu/files/19319211/download?download_frd=1)
 : **Reading Responses Due (Week 1)**{: .label .label-red}
