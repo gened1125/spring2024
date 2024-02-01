@@ -22,7 +22,7 @@ Feb 7
 
 Feb 09
 :  **PSET 1 DUE @ 11:59**{: .label .label-red } 
-    : PSet 1 Key
+    : [Submission](https://canvas.harvard.edu/courses/129605/assignments/794046) Key
 
 Feb 11
 : **Reading Responses Due (Week 3)**{: .label .label-red}
