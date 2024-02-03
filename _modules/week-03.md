@@ -6,7 +6,9 @@ Feb 5
 : **LEC 5**{: .label .label-grey } **The Architecture of the Brain - I**
      : Slides
 : Lecture Notes
-: Readings 📖
+: Readings 📖 
+: [Ballard_chapter_draft](https://canvas.harvard.edu/files/19333057/download?download_frd=1)
+: [Luo_Onepager](https://canvas.harvard.edu/files/19333059/download?download_frd=1)
 
 Feb 7
 :  **LEC 6**{: .label .label-grey } **The Architecture of the Brain - II**
