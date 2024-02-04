@@ -4,7 +4,7 @@ title: Week 3 - The Building Blocks of Biological and Artificial Intelligence (C
 
 Feb 5
 : **LEC 5**{: .label .label-grey } **The Architecture of the Brain - I**
-     : Slides
+     : [Slides](https://canvas.harvard.edu/files/19338113/download?download_frd=1)
 : Lecture Notes
 : Readings 📖 
 : [Ballard_chapter_draft](https://canvas.harvard.edu/files/19333057/download?download_frd=1)
