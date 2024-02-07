@@ -12,15 +12,10 @@ Feb 5
 
 Feb 7
 :  **LEC 6**{: .label .label-grey } **The Architecture of the Brain - II**
-     : Slides
+     : [Slides](https://canvas.harvard.edu/files/19357522/download?download_frd=1)
 : Lecture Notes
-: Readings 📖
+: Readings 📖 - Same as Lecture 5
 
-<!--
-: *Blog Post - A Beginner Introduction to Neural Networks*
-: *Using Neural Nets to Recognize Handwritten Digits*
-🎥
--->
 
 Feb 09
 :  **PSET 1 DUE @ 11:59**{: .label .label-red } 
