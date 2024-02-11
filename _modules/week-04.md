@@ -6,7 +6,8 @@ Feb 12
 : **LEC 7**{: .label .label-grey } **The Building Blocks of Neural Networks**
   : Slides
 : Readings 📖
-
+: [Nielsen_book_Chap1](http://neuralnetworksanddeeplearning.com/chap1.html)
+: [Blog_post](https://purnasaigudikandula.medium.com/a-beginner-intro-to-neural-networks-543267bda3c8)
 
 Feb 14
 : **LEC 8**{: .label .label-grey } **How Networks Learn**
