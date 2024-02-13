@@ -13,7 +13,7 @@ Feb 12
 Feb 14
 : **LEC 8**{: .label .label-grey } **How Networks Learn**
   : Slides
-: Lecture Notes
+: [Lecture Notes](https://canvas.harvard.edu/files/19414358/download?download_frd=1)
 : Readings 📖
 : **PSET 2 handed out**{: .label .label-green} Covers lectures 5-8
   : PSet2 pdf
