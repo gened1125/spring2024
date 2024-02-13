@@ -3,7 +3,7 @@ title: Week 4 - The Building Blocks of Biological and Artificial Intelligence (C
 ---
 
 Feb 12
-: **LEC 7**{: .label .label-grey } **The Building Blocks of Neural Networks**
+: **LEC 7**{: .label .label-grey } **The Building Blocks of Neural Networks** https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6019c2fd-7bd6-494d-b5e7-b0ff01522a01
   : [Slides](https://canvas.harvard.edu/files/19389790/download?download_frd=1)
 : Readings 📖
 : [Nielsen_book_Chap1](http://neuralnetworksanddeeplearning.com/chap1.html)
