@@ -12,9 +12,12 @@ Feb 12
 
 Feb 14
 : **LEC 8**{: .label .label-grey } **How Networks Learn**
-  : Slides
+  : [Slides](https://canvas.harvard.edu/files/19418395/download?download_frd=1)
 : [Lecture Notes](https://canvas.harvard.edu/files/19414358/download?download_frd=1)
 : Readings 📖
+: [DeepLearning_book_Chap1](https://www.deeplearningbook.org/contents/intro.html)
+: [Intro_to_backprop](http://neuralnetworksanddeeplearning.com/chap2.html)
+: [Data_annotation](https://medium.com/vsinghbisen/why-data-annotation-is-important-for-machine-learning-and-ai-5e647637c621)
 : **PSET 2 handed out**{: .label .label-green} Covers lectures 5-8
   : PSet2 pdf
 
