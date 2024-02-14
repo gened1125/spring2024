@@ -11,7 +11,7 @@ Feb 12
 : [Blog_post](https://purnasaigudikandula.medium.com/a-beginner-intro-to-neural-networks-543267bda3c8)
 
 Feb 14
-: **LEC 8**{: .label .label-grey } **How Networks Learn**
+: **LEC 8**{: .label .label-grey } **How Networks Learn**[🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=61c5af56-5e08-4f59-9cd7-b0ff01522a1f)
   : [Slides](https://canvas.harvard.edu/files/19418395/download?download_frd=1)
 : [Lecture Notes](https://canvas.harvard.edu/files/19414358/download?download_frd=1)
 : Readings 📖
