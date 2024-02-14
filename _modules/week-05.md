@@ -20,7 +20,7 @@ Feb 21
 
 Feb 23
 :  **PSET 2 DUE @ 11:59PM**{: .label .label-red }
-    : Submit PSet 2
+    : [Submit PSet 2](https://canvas.harvard.edu/courses/129605/assignments/794047)
 : PSet Key
 
 Feb 25
