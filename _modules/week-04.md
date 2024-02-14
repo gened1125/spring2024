@@ -19,7 +19,7 @@ Feb 14
 : [Intro_to_backprop](http://neuralnetworksanddeeplearning.com/chap2.html)
 : [Data_annotation](https://medium.com/vsinghbisen/why-data-annotation-is-important-for-machine-learning-and-ai-5e647637c621)
 : **PSET 2 handed out**{: .label .label-green} Covers lectures 5-8
-  : PSet2 pdf
+  : PSet2 [PDF](https://canvas.harvard.edu/files/19423318/download?download_frd=1) / [LaTeX](https://canvas.harvard.edu/files/19423323/download?download_frd=1)
 
 Feb 18
 : **Reading Responses Due (Week 4)**{: .label .label-red}
