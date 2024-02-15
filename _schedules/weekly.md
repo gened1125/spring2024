@@ -59,7 +59,7 @@ schedule:
       - name: D08
         start: 3:00 PM
         end: 4:00 PM
-        location: SC 110
+        location: SC 411
   - name: Friday
     events:
       - name: D011
