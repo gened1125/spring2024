@@ -6,7 +6,7 @@ Feb 19
 : **No Class -- President's Day**
 
 Feb 21
-:  **LEC 9**{: .label .label-grey } **Dimensionality Reduction and Invariant Representations**
+:  **LEC 9**{: .label .label-grey } **Convolutional Neural Networks (CNN)**
     : Slides
 : Lecture notes
 : Readings 📖
