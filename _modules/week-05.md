@@ -10,13 +10,8 @@ Feb 21
     : Slides
 : Lecture notes
 : Readings 📖
-
-<!--
-: * [The Neuroscience of Vision]
-: * [Neural Networks and Deep Learning]
-: * [Interactive CNN Explainer]
-🎥
--->
+: [The Neuroscience of Vision](https://canvas.harvard.edu/files/19452783/download?download_frd=1)
+: [Neural Networks and Deep Learning](https://canvas.harvard.edu/files/19452782/download?download_frd=1)
 
 Feb 23
 :  **PSET 2 DUE @ 11:59PM**{: .label .label-red }
