@@ -4,8 +4,10 @@ title: Week 6 - Learning Complex Representations
 
 Feb 26
 :  **LEC 10**{: .label .label-grey } **Dimensionality Reduction and Invariant Representations**
-    : Slides
+    : [Slides](https://canvas.harvard.edu/files/19495295/download?download_frd=1)
 : Readings 📖
+: [Dimension_reduction](https://canvas.harvard.edu/files/19495296/download?download_frd=1)
+: [Face_recognition_review](https://canvas.harvard.edu/files/19495298/download?download_frd=1) (optional)
 
 Feb 28
 : **LEC 11**{: .label .label-grey } **Guest Lecturer: Talia Konkle**
