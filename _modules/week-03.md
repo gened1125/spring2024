@@ -19,7 +19,7 @@ Feb 7
 
 Feb 09
 :  **PSET 1 DUE @ 11:59**{: .label .label-red } 
-    : [Submission](https://canvas.harvard.edu/courses/129605/assignments/794046) Key
+    : [Submission](https://canvas.harvard.edu/courses/129605/assignments/794046) [Key](https://canvas.harvard.edu/files/19517063/download?download_frd=1)
 
 Feb 11
 : **Reading Responses Due (Week 3)**{: .label .label-red}
