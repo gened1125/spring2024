@@ -5,6 +5,7 @@ title: Week 6 - Learning Complex Representations
 Feb 26
 :  **LEC 10**{: .label .label-grey } **Dimensionality Reduction and Invariant Representations** [🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ec36528-1eb3-44cb-ae33-b0ff01522a7b)
     : [Slides](https://canvas.harvard.edu/files/19495295/download?download_frd=1)
+: [Lecture Notes](https://canvas.harvard.edu/files/19519332/download?download_frd=1)
 : Readings 📖
 : [Dimension_reduction](https://canvas.harvard.edu/files/19495296/download?download_frd=1)
 : [Face_recognition_review](https://canvas.harvard.edu/files/19495298/download?download_frd=1) (optional)
