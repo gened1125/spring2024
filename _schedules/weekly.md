@@ -45,7 +45,7 @@ schedule:
       - name: D03
         start: 4:30 PM
         end: 5:30 PM
-        location: SC 111
+        location: Biolabs BL 2062
   - name: Thursday
     events:
       - name: D05
