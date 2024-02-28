@@ -11,7 +11,7 @@ Feb 26
 : [Face_recognition_review](https://canvas.harvard.edu/files/19495298/download?download_frd=1) (optional)
 
 Feb 28
-: **LEC 11**{: .label .label-grey } **Guest Lecturer: Talia Konkle**
+: **LEC 11**{: .label .label-grey } **Guest Lecturer: Talia Konkle** [🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=141a81f9-8f29-422c-9aed-b0ff01522a9a)
 : Readings 📖
 
 Mar 3
