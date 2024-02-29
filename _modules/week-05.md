@@ -16,7 +16,7 @@ Feb 21
 Feb 23
 :  **PSET 2 DUE @ 11:59PM**{: .label .label-red }
     : [Submit PSet 2](https://canvas.harvard.edu/courses/129605/assignments/794047)
-: PSet Key
+: [PSet Key](https://canvas.harvard.edu/files/19542191/download?download_frd=1)
 
 Feb 25
 : **Reading Response Due (Week 5)**{: .label .label-red}
