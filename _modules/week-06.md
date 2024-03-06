@@ -12,6 +12,7 @@ Feb 26
 
 Feb 28
 : **LEC 11**{: .label .label-grey } **Guest Lecturer: Talia Konkle** [🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=141a81f9-8f29-422c-9aed-b0ff01522a9a)
+    : [Slides](https://canvas.harvard.edu/files/19590208/download?download_frd=1)
 : Readings 📖
 
 Mar 3
