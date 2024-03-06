@@ -12,4 +12,4 @@ Mar 4
 
 Mar 6
 : **In class mid term exam**
-    : Midterm Key
+    : [Midterm](https://canvas.harvard.edu/files/19596192/download?download_frd=1) Key
