@@ -7,6 +7,8 @@ Mar 18
     : Slides
 : Lecture Notes
 : Readings 📖
+: [Memory_Intro](https://canvas.harvard.edu/files/19652960/download?download_frd=1)
+: [LearningandMemory_Review](https://canvas.harvard.edu/files/19652959/download?download_frd=1)
 
 Mar 20
 : **LEC 14**{: .label .label-grey } **Guest Lecturer: Adam Lowet (Uchida Lab) - Reinforcement Learning**
