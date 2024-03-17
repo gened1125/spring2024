@@ -4,7 +4,7 @@ title: Week 8 - Learning In The Brain
 
 Mar 18
 : **LEC 13**{: .label .label-grey } **Types of Learning**
-    : Slides
+    : [Slides](https://canvas.harvard.edu/files/19657332/download?download_frd=1)
 : Lecture Notes
 : Readings 📖
 : [Memory_Intro](https://canvas.harvard.edu/files/19652960/download?download_frd=1)
