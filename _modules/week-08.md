@@ -12,7 +12,7 @@ Mar 18
 
 Mar 20
 : **LEC 14**{: .label .label-grey } **Guest Lecturer: Adam Lowet (Uchida Lab) - Reinforcement Learning**[🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=63a7998b-62d1-4eb7-b3d0-b0ff01522b5b)
-    : Slides
+    : [Slides](https://canvas.harvard.edu/files/19697168/download?download_frd=1)
 : Readings 📖
 
 Mar 24
