@@ -6,6 +6,8 @@ Mar 25
 : **LEC 15**{: .label .label-grey } **Natural Language**
     : Slides
 : Readings 📖
+: [Bird_communication](https://canvas.harvard.edu/files/19729904/download?download_frd=1)
+: [Human_language](https://canvas.harvard.edu/files/19729909/download?download_frd=1)
 
 Mar 27
 : **LEC 16**{: .label .label-grey } **Language and Machines**
