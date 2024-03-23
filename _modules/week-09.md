@@ -7,6 +7,7 @@ Mar 25
     : Slides
 : Readings 📖
 : [Bird_communication](https://canvas.harvard.edu/files/19729904/download?download_frd=1)
+: [ML_to_animalcommunication](https://canvas.harvard.edu/files/19730032/download?download_frd=1)
 : [Human_language](https://canvas.harvard.edu/files/19729909/download?download_frd=1)
 
 Mar 27
