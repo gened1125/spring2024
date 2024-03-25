@@ -3,7 +3,7 @@ title: Week 9 - Language and Learning
 ---
 
 Mar 25
-: **LEC 15**{: .label .label-grey } **Natural Language**
+: **LEC 15**{: .label .label-grey } **Natural Language** [🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e60326b2-7e08-4726-990c-b0ff01522b7d)
     : [Slides](https://canvas.harvard.edu/files/19746024/download?download_frd=1)
 : Readings 📖
 : [Bird_communication](https://canvas.harvard.edu/files/19729904/download?download_frd=1)
