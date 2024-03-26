@@ -14,6 +14,9 @@ Mar 27
 : **LEC 16**{: .label .label-grey } **Language and Machines**
     : Slides
 : Readings 📖
+: [Natural_Language_Processing](https://www.datacamp.com/blog/what-is-natural-language-processing)
+: [ChatGPT](https://canvas.harvard.edu/files/19763873/download?download_frd=1)
+: [ChatGPT_explained](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) detailed explanation, optional reading!
 : **PSET 3 handed out**{: .label .label-green } Covers lectures 13-16
     : PSET 3 pdf
 
