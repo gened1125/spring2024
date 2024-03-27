@@ -14,6 +14,7 @@ Apr 3
 
 Apr 5
 : **PSET 3 DUE @ 11:59PM**{: .label .label-red }
+  : [Submit PSet 3](https://canvas.harvard.edu/courses/129605/assignments/794051)
   : Key
 
 Apr 7
