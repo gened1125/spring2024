@@ -13,7 +13,7 @@ Mar 25
 
 Mar 27
 : **LEC 16**{: .label .label-grey } **Language and Machines**
-    : Slides
+    : [Slides](https://canvas.harvard.edu/files/19779369/download?download_frd=1)
 : [Lecture Notes](https://canvas.harvard.edu/files/19774051/download?download_frd=1)
 : Readings 📖
 : [Natural_Language_Processing](https://www.datacamp.com/blog/what-is-natural-language-processing)
