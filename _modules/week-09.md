@@ -5,6 +5,7 @@ title: Week 9 - Language and Learning
 Mar 25
 : **LEC 15**{: .label .label-grey } **Natural Language** [🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e60326b2-7e08-4726-990c-b0ff01522b7d)
     : [Slides](https://canvas.harvard.edu/files/19746024/download?download_frd=1)
+: [Lecture Notes](https://canvas.harvard.edu/files/19774049/download?download_frd=1)
 : Readings 📖
 : [Bird_communication](https://canvas.harvard.edu/files/19729904/download?download_frd=1)
 : [ML_to_animalcommunication](https://canvas.harvard.edu/files/19730032/download?download_frd=1)
@@ -13,6 +14,7 @@ Mar 25
 Mar 27
 : **LEC 16**{: .label .label-grey } **Language and Machines**
     : Slides
+: [Lecture Notes](https://canvas.harvard.edu/files/19774051/download?download_frd=1)
 : Readings 📖
 : [Natural_Language_Processing](https://www.datacamp.com/blog/what-is-natural-language-processing)
 : [ChatGPT](https://canvas.harvard.edu/files/19763873/download?download_frd=1)
