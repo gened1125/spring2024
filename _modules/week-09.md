@@ -20,7 +20,7 @@ Mar 27
 : [ChatGPT](https://canvas.harvard.edu/files/19763873/download?download_frd=1)
 : [ChatGPT_explained](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/) detailed explanation, optional reading!
 : **PSET 3 handed out**{: .label .label-green } Covers lectures 13-16
-    : PSET 3 pdf
+    : [pdf](https://canvas.harvard.edu/files/19780414/download?download_frd=1) / [LaTeX](https://canvas.harvard.edu/files/19780415/download?download_frd=1)
 
 Mar 29
 : **Final Paper - deliverable 1 due**{: .label .label-red}
