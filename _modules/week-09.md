@@ -12,7 +12,7 @@ Mar 25
 : [Human_language](https://canvas.harvard.edu/files/19729909/download?download_frd=1)
 
 Mar 27
-: **LEC 16**{: .label .label-grey } **Language and Machines**
+: **LEC 16**{: .label .label-grey } **Language and Machines** [🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f5bc8b74-e184-49f1-97d8-b0ff01522b9a)
     : [Slides](https://canvas.harvard.edu/files/19779369/download?download_frd=1)
 : [Lecture Notes](https://canvas.harvard.edu/files/19774051/download?download_frd=1)
 : Readings 📖
