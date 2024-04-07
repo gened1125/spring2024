@@ -3,7 +3,7 @@ title: Week 10 - Applications
 ---
 
 Apr 1
-: ** - **{: .label .label-grey } **No Lecture**
+: **-**{: .label .label-grey } **No Lecture**
   : Slides
 : Readings 📖
 
