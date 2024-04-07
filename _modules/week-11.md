@@ -23,7 +23,7 @@ Apr 10
 -->
 Apr 10
 : **PSET 4 handed out**{: .label .label-green} Covers lectures 16-20
-  : PSet 4 Pdf
+
 
 Apr 14
   : **Reading Response Due - Week 11**{: .label .label-red}
