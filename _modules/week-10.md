@@ -8,7 +8,7 @@ Apr 1
 : Readings 📖
 
 Apr 3
-: **LEC 17**{: .label .label-grey } **Learning To Play Complex Games**[🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f3aa1e05-628e-47e7-b627-b0ff01522bdf)
+: **LEC 17**{: .label .label-grey } **Learning To Play Complex Games** [🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f3aa1e05-628e-47e7-b627-b0ff01522bdf)
  : [Slides](https://canvas.harvard.edu/files/19814203/download?download_frd=1)
 : Readings 📖
 : [Atari_deepmind](https://canvas.harvard.edu/files/19810401/download?download_frd=1)
