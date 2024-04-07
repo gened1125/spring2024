@@ -21,6 +21,7 @@ Apr 10
   : Slides
 : Readings 📖
 -->
+Apr 10
 : **PSET 4 handed out**{: .label .label-green} Covers lectures 16-20
   : PSet 4 Pdf
 
