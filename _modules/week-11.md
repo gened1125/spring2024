@@ -1,5 +1,5 @@
 ---
-title: Week 11 - Understanding & Leveraging The Black Box
+title: Week 11 - Autonomous vehicles + reading minds
 ---
 
 Apr 8
@@ -10,6 +10,7 @@ Apr 8
 : [Self-driving Cars Blog](https://sitn.hms.harvard.edu/flash/2017/self-driving-cars-technology-risks-possibilities/)
 : [Stanley_DARPA_Challenge](https://canvas.harvard.edu/files/19866428/download?download_frd=1)
 
+Apr 10
 : **LEC 19**{: .label .label-grey } **Mind-Reading**
   : Slides
 : Readings 📖
