@@ -3,7 +3,7 @@ title: Week 11 - Autonomous vehicles + reading minds
 ---
 
 Apr 8
-: **LEC 18**{: .label .label-grey } **Learning How To Drive A Car** 🎥
+: **LEC 18**{: .label .label-grey } **Learning How To Drive A Car** [🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=88c38576-9cfa-4ee0-af27-b0ff01522c10)
   : [Slides](https://canvas.harvard.edu/files/19869644/download?download_frd=1)
 : Readings 📖
 : [NHTSA vehicle safety](https://www.nhtsa.gov/technology-innovation/automated-vehicles-safety)
