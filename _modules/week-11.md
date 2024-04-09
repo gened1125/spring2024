@@ -14,6 +14,8 @@ Apr 10
 : **LEC 19**{: .label .label-grey } **Mind-Reading**
   : Slides
 : Readings 📖
+: [Mind_reading](https://canvas.harvard.edu/files/19886711/download?download_frd=1)
+: [Brain_computer_interface](https://canvas.harvard.edu/files/19886706/download?download_frd=1)
 
 <!--
 Apr 10
