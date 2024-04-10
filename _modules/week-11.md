@@ -17,14 +17,9 @@ Apr 10
 : [Mind_reading](https://canvas.harvard.edu/files/19886711/download?download_frd=1)
 : [Brain_computer_interface](https://canvas.harvard.edu/files/19886706/download?download_frd=1)
 
-<!--
-Apr 10
-: **LEC 20**{: .label .label-grey } **Transfer Learning and Generalizability**
-  : Slides
-: Readings 📖
--->
 Apr 10
 : **PSET 4 handed out**{: .label .label-green} Covers lectures 16-20
+  : [Pdf](https://canvas.harvard.edu/files/19894259/download?download_frd=1) / [LaTeX](https://canvas.harvard.edu/files/19894262/download?download_frd=1)
 
 
 Apr 14
