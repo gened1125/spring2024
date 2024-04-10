@@ -11,7 +11,7 @@ Apr 8
 : [Stanley_DARPA_Challenge](https://canvas.harvard.edu/files/19866428/download?download_frd=1)
 
 Apr 10
-: **LEC 19**{: .label .label-grey } **Mind-Reading**
+: **LEC 19**{: .label .label-grey } **Mind-Reading**🎥
   : [Slides](https://canvas.harvard.edu/files/19889033/download?download_frd=1)
 : Readings 📖
 : [Mind_reading](https://canvas.harvard.edu/files/19886711/download?download_frd=1)
