@@ -7,6 +7,7 @@ Apr 15
   : Slides
 : Readings 📖
 : **Final Paper - deliverable 2 due**{: .label .label-red}
+  : [Submission](https://canvas.harvard.edu/courses/129605/assignments/794067)
 
 Apr 17
 : **LEC 22**{: .label .label-grey } **Generative AI**
