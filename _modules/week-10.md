@@ -17,7 +17,7 @@ Apr 3
 
 Apr 5
 : **PSET 3 DUE @ 11:59PM**{: .label .label-red }
-  : [Submit](https://canvas.harvard.edu/courses/129605/assignments/794051) / Key
+  : [Submit](https://canvas.harvard.edu/courses/129605/assignments/794051) / [Key](https://canvas.harvard.edu/files/19894281/download?download_frd=1)
 
 Apr 7
   : **Reading Response Due - Week 10**{: .label .label-red}
