@@ -24,7 +24,7 @@ Thurs 9:00-10:00am [Zoom](https://harvard.zoom.us/my/venki.murthy)
 Quick Links
 * [PDF version](https://canvas.harvard.edu/files/19232513/download?download_frd=1) of the course schedule and syllabus.
 * [Course Preview Zoom Recording](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ea20130f-9f05-40ee-835b-ae1d0145500a), where Prof. Murthy gives an overview of the course (Recorded for Spring 2022).
-* [Final paper guidelines](https://canvas.harvard.edu/files/19588550/download?download_frd=1)
+* [Final paper guidelines](https://canvas.harvard.edu/files/19894484/download?download_frd=1)
 * [Grading rubric](https://canvas.harvard.edu/files/18788276/download?download_frd=1)
 * [Midterm Key](https://canvas.harvard.edu/files/19665754/download?download_frd=1)
 
