@@ -6,6 +6,9 @@ Apr 15
 : **LEC 21**{: .label .label-grey } **Human & Algorithmic Biases**
   : Slides
 : Readings 📖
+: [FairML_Intro](https://fairmlbook.org/introduction.html)
+: [Illusions](https://www.vox.com/science-and-health/20978285/optical-illusion-science-humility-reality-polarization)
+: [Cognitive_Bias](https://canvas.harvard.edu/files/19913576/download?download_frd=1)
 : **Final Paper - deliverable 2 due**{: .label .label-red}
   : [Submission](https://canvas.harvard.edu/courses/129605/assignments/794067)
 
