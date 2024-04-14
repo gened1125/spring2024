@@ -4,7 +4,7 @@ title: Week 12 - Biases and Reality
 
 Apr 15
 : **LEC 21**{: .label .label-grey } **Human & Algorithmic Biases**
-  : Slides
+  : [Slides](https://canvas.harvard.edu/files/19920083/download?download_frd=1)
 : Readings 📖
 : [FairML_Intro](https://fairmlbook.org/introduction.html)
 : [Illusions](https://www.vox.com/science-and-health/20978285/optical-illusion-science-humility-reality-polarization)
