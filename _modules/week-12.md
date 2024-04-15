@@ -3,7 +3,7 @@ title: Week 12 - Biases and Reality
 ---
 
 Apr 15
-: **LEC 21**{: .label .label-grey } **Human & Algorithmic Biases**
+: **LEC 21**{: .label .label-grey } **Human & Algorithmic Biases**[🎥](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5f22eb6f-06d5-4dbc-a6b7-b0ff01522c4e)
   : [Slides](https://canvas.harvard.edu/files/19920083/download?download_frd=1)
 : Readings 📖
 : [FairML_Intro](https://fairmlbook.org/introduction.html)
