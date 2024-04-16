@@ -16,7 +16,8 @@ Apr 17
 : **LEC 22**{: .label .label-grey } **Generative AI**
   : Slides
 : Readings 📖
-
+: [Promise_perils](https://canvas.harvard.edu/files/19936739/download?download_frd=1)
+: [Art_science](https://canvas.harvard.edu/files/19936737/download?download_frd=1)
 
 Apr 19
 : **PSET 4 DUE @ 11:59PM**{: .label .label-red }
