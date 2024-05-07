@@ -14,6 +14,7 @@ Apr 24
 
 May 6
 : **FINAL PAPER DUE @ 11:59pm**{: .label .label-red }
+  : [Submission](https://canvas.harvard.edu/courses/129605/assignments/794070)
 
 Section
 
