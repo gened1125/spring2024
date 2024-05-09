@@ -21,7 +21,7 @@ Apr 17
 
 Apr 19
 : **PSET 4 DUE @ 11:59PM**{: .label .label-red }
-  : PSet4 Key
+  : [PSet4 Key](https://canvas.harvard.edu/files/20089475/download?download_frd=1)
 
 Apr 21
 : **Reading Response Due - Week 12**{: .label .label-red}
